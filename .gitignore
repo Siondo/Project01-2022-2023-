@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Client/Library/
+Client/ServerData/
+Client/Temp/UnityTempFile-91403c7532abdd843a34f6a4e877e6eb
+Client/Temp/
