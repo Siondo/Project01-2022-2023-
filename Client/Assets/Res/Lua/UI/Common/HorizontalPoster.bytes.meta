@@ -3,5 +3,5 @@ guid: 2fda8b3e20ae2664f9c41057f5404ab9
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/ui/common/horizontalposter
+  assetBundleVariant: unity3d

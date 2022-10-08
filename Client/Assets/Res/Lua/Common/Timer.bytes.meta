@@ -3,5 +3,5 @@ guid: c407a1243c7a1324b89a180321e81ec2
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/common/timer
+  assetBundleVariant: unity3d

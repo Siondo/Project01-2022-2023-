@@ -3,5 +3,5 @@ guid: f4f7eb1c787937b46a367d033ba2fb2d
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/ui/common/uiwebconfig
+  assetBundleVariant: unity3d

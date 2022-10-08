@@ -3,5 +3,5 @@ guid: cf7c1118469cc844d9756408ceccfe20
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/common/coroutine
+  assetBundleVariant: unity3d

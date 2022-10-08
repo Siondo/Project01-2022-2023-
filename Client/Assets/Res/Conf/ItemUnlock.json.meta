@@ -3,5 +3,5 @@ guid: 39ca2fc010adedf4b9e1124fdf9ff892
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/conf/itemunlock
+  assetBundleVariant: unity3d

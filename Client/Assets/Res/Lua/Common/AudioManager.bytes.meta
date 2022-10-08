@@ -3,5 +3,5 @@ guid: 1f6886f22f5623f4eafeb28f146e359a
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/common/audiomanager
+  assetBundleVariant: unity3d

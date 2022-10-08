@@ -4,34 +4,36 @@ local VersionUpdate = class("Version", StateMachineBase)
 function VersionUpdate:OnEnter()
     self.super:OnEnter()
     LuaHelper.ShowUIImmediate(UI.AppSetupView)
-    UIEvent:OnEvent(UIEvent.AppSetupView.UpdateProgress, nil, nil, '正在获取远端数据...')
-    NetWork:onInit(function(data)
-        APP.host = data.host
-        APP.port = data.port
-        APP.url = data.url
+    UIEvent:OnEvent(UIEvent.AppSetupView.UpdateProgress, nil, nil, '资源加载中...')
+    -- NetWork:onInit(function(data)
+    --     APP.host = data.host
+    --     APP.port = data.port
+    --     APP.url = data.url
 
-        local isConnect = false
-        UIEvent:OnEvent(UIEvent.AppSetupView.UpdateProgress, nil, nil, '正在与服务器建立连接...')
-        NetWork:onConnect(function(result)
-            isConnect = result
-        end)
+    --     local isConnect = false
+    --     UIEvent:OnEvent(UIEvent.AppSetupView.UpdateProgress, nil, nil, '正在与服务器建立连接...')
+    --     NetWork:onConnect(function(result)
+    --         isConnect = result
+    --     end)
 
-        coroutine.start(function ()
+    --     --TODO 资源加载
+    -- end)
+
+    coroutine.start(function ()
+        coroutine.step(1)
+        while not isConnect do
             coroutine.step(1)
-            while not isConnect do
-                coroutine.step(1)
-            end
+        end
 
-            -- 准备其他库
-            Require()
-            -- 获取远程版本文件
-            if APP.openUpdate then
-                UIEvent:OnEvent(UIEvent.AppSetupView.UpdateTips, UIText(11002), UIText(11003))
-                self:RequestVersionInfo()
-            else
-                StateMachine:OnEnter(StateMachineType.AssetLoadState)
-            end
-        end)
+        -- 准备其他库
+        Require()
+        -- 获取远程版本文件
+        if APP.openUpdate then
+            UIEvent:OnEvent(UIEvent.AppSetupView.UpdateTips, UIText(11002), UIText(11003))
+            self:RequestVersionInfo()
+        else
+            StateMachine:OnEnter(StateMachineType.AssetLoadState)
+        end
     end)
 end
 

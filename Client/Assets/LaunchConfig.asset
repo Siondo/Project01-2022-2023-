@@ -22,7 +22,7 @@ MonoBehaviour:
     m_logLevel: 0
     m_abMode: 0
     m_abLua: 0
-    m_debugMode: 0
+    m_debugMode: 1
     m_checkMode: 0
     m_name: "\u81EA\u5B9A\u4E49"
     m_bundleIdentifier: com.jiujiuji.CrushTask
@@ -39,7 +39,7 @@ MonoBehaviour:
     m_abLua: 1
     m_debugMode: 1
     m_checkMode: 1
-    m_name: "\u5916\u7F51\u73AF\u5883"
+    m_name: "\u771F\u673A\u73AF\u5883"
     m_bundleIdentifier: com.jiujiuji.CrushTask
     m_version: 1.0.0
     m_bundleVersionCode: 1
@@ -54,7 +54,7 @@ MonoBehaviour:
     m_abLua: 0
     m_debugMode: 1
     m_checkMode: 0
-    m_name: "\u53F6\u5FD7-\u670D\u52A1\u5668"
+    m_name: "\u670D\u52A1\u5668-1"
     m_bundleIdentifier: com.jiujiuji.CrushTask
     m_version: 1.0.0
     m_bundleVersionCode: 1
@@ -69,7 +69,7 @@ MonoBehaviour:
     m_abLua: 0
     m_debugMode: 1
     m_checkMode: 0
-    m_name: "\u6E29\u6D9B-\u670D\u52A1\u5668"
+    m_name: "\u670D\u52A1\u5668-2"
     m_bundleIdentifier: com.jiujiuji.CrushTask
     m_version: 1.0.0
     m_bundleVersionCode: 1

@@ -36,7 +36,7 @@ function Init:OnEnter()
     -- 加载多语言
     Config.InitLang()
     -- 加载音效
-	AudioManager.Init()
+	-- AudioManager.Init()
     -- 根据下一步指示，进入指定的状态
     local nextState = APP.nextState or StateMachineType.VersionUpdateState
     StateMachine:OnEnter(nextState)

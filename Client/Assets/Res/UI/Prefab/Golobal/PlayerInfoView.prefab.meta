@@ -3,5 +3,5 @@ guid: cae9e690deb82b94fbeb21fa8b7787aa
 PrefabImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/ui/prefab/golobal/playerinfoview
+  assetBundleVariant: unity3d

@@ -252,15 +252,12 @@ function GlobalRequire()
         require("Common.EventManager")
         require("Common.Timer")
         require("Common.coroutine")
-
-        require("UI.Common.UICommon")
-        require("UI.Common.UIBase")
-        require("Data.PlayerData")
-
         require("Common.Util")
         require("Common.AudioManager")
         require("Common.HttpTool")
-        require("Logic.PlayerLogic")
+
+        require("UI.Common.UICommon")
+        require("UI.Common.UIBase")
     end
 end
 
@@ -268,28 +265,8 @@ end
 function Require()
     if not _G.RequireComplete then
         _G.RequireComplete = true
-
-        require("Common.NetWork")
-        require("Common.RedDot")
-        require("Data.PlayerData")
-        require("Data.ItemData")
-        require("Data.RankData")
-        require("Data.RecordData")
-        require("Data.ShopData")
-        require("Data.FriendData")
-        require("Data.MatchData")
-        require("Data.SignData")
-        require("Data.ReconnectionData")
         require("UI.Common.UIWebConfig")
         require("UI.Common.UITool")
         require("UI.Common.UIColor")
-        require("UI.Common.IAPManager")
-        require("UI.Golobal.Component.MainTabBar")
-        require("UI.Golobal.Component.MainStausBar")
-        require("UI.Golobal.Component.MatchItemBar")
-        require("UI.Golobal.Component.PlayerGrid")
-        require("MatchGame.base.MatchManager")
-        require("MatchGame.MatchProtoRequest")
-        require("MatchGame.MatchItem")
     end
 end

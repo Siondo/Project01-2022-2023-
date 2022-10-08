@@ -201,8 +201,8 @@ end
 function UITool:onAddClickAndClear(button, event, audioName, useObj)
     button.onClick:RemoveAllListeners()
     button.onClick:AddListener(function()
-        audioName = audioName or AudioManager.Audio.Click
-        AudioManager.PlaySound(audioName)
+        -- audioName = audioName or AudioManager.Audio.Click
+        -- AudioManager.PlaySound(audioName)
         if useObj then
             event(useObj, button.gameObject)
         else

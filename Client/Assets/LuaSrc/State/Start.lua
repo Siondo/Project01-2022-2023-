@@ -6,8 +6,8 @@ function Start:OnEnter()
     self:Require()
     LuaHelper.targetFrameRate = Const.TARGETFRAMERATE
 
-    AudioManager:onSetAudioVolume()
-    MatchManager:onInit()
+    -- AudioManager:onSetAudioVolume()
+    -- MatchManager:onInit()
     LuaHelper.HideDisplayLogo()
 end
 

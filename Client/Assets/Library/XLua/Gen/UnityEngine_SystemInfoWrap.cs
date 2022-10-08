@@ -898,7 +898,7 @@ namespace XLua.CSObjectWrap
         {
 		    try {
             
-			    LuaAPI.lua_pushboolean(L, UnityEngine.SystemInfo.supportsGPUFence);
+			    LuaAPI.lua_pushboolean(L, UnityEngine.SystemInfo.supportsGraphicsFence);
             } catch(System.Exception gen_e) {
                 return LuaAPI.luaL_error(L, "c# exception:" + gen_e);
             }

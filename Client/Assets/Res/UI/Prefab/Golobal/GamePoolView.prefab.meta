@@ -3,5 +3,5 @@ guid: ee29384c523783846adf1cacc32d8dd6
 PrefabImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/ui/prefab/golobal/gamepoolview
+  assetBundleVariant: unity3d

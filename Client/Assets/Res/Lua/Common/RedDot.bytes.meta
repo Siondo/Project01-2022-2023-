@@ -3,5 +3,5 @@ guid: 7171eb5b3ba43ab48a81eda26d6321f2
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/common/reddot
+  assetBundleVariant: unity3d

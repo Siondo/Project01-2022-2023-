@@ -3,5 +3,5 @@ guid: 4b9732c1473dfd844ab8348deda39b36
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/common/netmessage
+  assetBundleVariant: unity3d

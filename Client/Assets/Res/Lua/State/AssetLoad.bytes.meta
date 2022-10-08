@@ -3,5 +3,5 @@ guid: 45f06f758caf2b349a30fa2519f33ff2
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/lua/state/assetload
+  assetBundleVariant: unity3d

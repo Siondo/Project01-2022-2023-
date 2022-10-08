@@ -3,5 +3,5 @@ guid: 9802ef3d0af07f14daf0bb58234cced5
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/conf/drop
+  assetBundleVariant: unity3d

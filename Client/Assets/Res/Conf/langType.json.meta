@@ -3,5 +3,5 @@ guid: 568f2afd6bce0c049b1c8a4c8b246a57
 TextScriptImporter:
   externalObjects: {}
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  assetBundleName: res/conf/langtype
+  assetBundleVariant: unity3d
