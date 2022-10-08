@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 906ef7c0f16997243ac3beb4b6336280, type: 3}
+  m_Name: BuildConfig
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_select: 1
+    m_description: "ui\u56FE\u96C6"
+    m_asset: {fileID: 102900000, guid: 766856a7e8185b944b91d83e07acf10b, type: 3}
+    m_searchPattern: .png;.jpg
+    m_searchOption: 1
+  - m_select: 1
+    m_description: "ui\u9884\u5236\u4F53"
+    m_asset: {fileID: 102900000, guid: 60f623188cbfd324b87226f1d415a8bb, type: 3}
+    m_searchPattern: .prefab;~abc.prefab
+    m_searchOption: 1
+  - m_select: 1
+    m_description: "lua\u811A\u672C"
+    m_asset: {fileID: 102900000, guid: b525134e9a690384eb4f14256f9ec967, type: 3}
+    m_searchPattern: .bytes
+    m_searchOption: 1
+  - m_select: 1
+    m_description: "\u914D\u7F6E"
+    m_asset: {fileID: 102900000, guid: 858eadecea61c2c4797752580b092964, type: 3}
+    m_searchPattern: .json
+    m_searchOption: 1
+  - m_select: 1
+    m_description: "\u5B57\u4F53"
+    m_asset: {fileID: 102900000, guid: 0197977321e965b4bb8534f1e7677d11, type: 3}
+    m_searchPattern: .ttf
+    m_searchOption: 1
+  - m_select: 1
+    m_description: "\u97F3\u6548"
+    m_asset: {fileID: 102900000, guid: a5dfe14555a7ba9408b5351f8f67d74c, type: 3}
+    m_searchPattern: .mp3
+    m_searchOption: 1
+  - m_select: 1
+    m_description: "\u7740\u8272\u5668"
+    m_asset: {fileID: 102900000, guid: 98a07511ec76e2547b29b22c1de15a3f, type: 3}
+    m_searchPattern: .shader
+    m_searchOption: 1
+  - m_select: 1
+    m_description: MatchGameMain
+    m_asset: {fileID: 102900000, guid: 5b9b5a73039ef6a4993cb89033411e0b, type: 3}
+    m_searchPattern: .FBX;.mat;.prefab;.png
+    m_searchOption: 1

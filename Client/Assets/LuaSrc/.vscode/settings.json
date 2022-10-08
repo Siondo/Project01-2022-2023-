@@ -1,0 +1,25 @@
+{
+    "editor.snippetSuggestions": "bottom",
+    //配置新建文件注释和方法注释
+    "fileheader.configObj": {
+        "autoAlready": false,
+        "createFileTime": true, //设置为true则为文件新建时候作为date，否则注释生成时间为date
+        "autoAdd": false, //自动生成注释，老是忘记的同学可以设置
+        "annotationStr": {
+        "head": "/*",
+        "middle": " * @",
+        "end": " */",
+        "use": false //设置自定义注释可用,
+        
+        },
+        "headInsertLine": {
+        "php": 2
+        }
+    },
+    "fileheader.customMade": {
+        "Description":"" ,//文件内容描述
+        "Author":"xinZhao",//编辑人
+        "Date": "Do not edit",//时间
+        "LastEditTime": "Do not edit",
+    }
+}

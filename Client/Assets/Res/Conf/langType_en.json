@@ -1,0 +1,904 @@
+{
+  "langType": {
+    "ui_login_00001": {
+      "key": "ui_login_00001",
+      "value": "Crush Task 3D Fun"
+    },
+    "ui_login_00002": {
+      "key": "ui_login_00002",
+      "value": "start"
+    },
+    "ui_login_00003": {
+      "key": "ui_login_00003",
+      "value": "sign in wlith apple"
+    },
+    "ui_login_00004": {
+      "key": "ui_login_00004",
+      "value": "sign in with facebook"
+    },
+    "ui_login_00005": {
+      "key": "ui_login_00005",
+      "value": "Already have an account?"
+    },
+    "ui_login_00006": {
+      "key": "ui_login_00006",
+      "value": "REGISTER"
+    },
+    "ui_login_00007": {
+      "key": "ui_login_00007",
+      "value": "sign in with Google"
+    },
+    "ui_login_00008": {
+      "key": "ui_login_00008",
+      "value": "SIGN IN"
+    },
+    "ui_register_00001": {
+      "key": "ui_register_00001",
+      "value": "Registration"
+    },
+    "ui_register_00002": {
+      "key": "ui_register_00002",
+      "value": "Please make sure the email you entered is correct,otherwise the registr will fail."
+    },
+    "ui_register_00003": {
+      "key": "ui_register_00003",
+      "value": "Email"
+    },
+    "ui_register_00004": {
+      "key": "ui_register_00004",
+      "value": "Please enter the email"
+    },
+    "ui_register_00005": {
+      "key": "ui_register_00005",
+      "value": "Password"
+    },
+    "ui_register_00006": {
+      "key": "ui_register_00006",
+      "value": "Set 6~16 digit password"
+    },
+    "ui_register_00007": {
+      "key": "ui_register_00007",
+      "value": " CONTACT US"
+    },
+    "ui_register_00008": {
+      "key": "ui_register_00008",
+      "value": "Already have an account? SIGN IN"
+    },
+    "ui_register_00009": {
+      "key": "ui_register_00009",
+      "value": "Register"
+    },
+    "ui_register_00010": {
+      "key": "ui_register_00010",
+      "value": "Need help? "
+    },
+    "ui_signin_00001": {
+      "key": "ui_signin_00001",
+      "value": "Email"
+    },
+    "ui_signin_00002": {
+      "key": "ui_signin_00002",
+      "value": "Please enter the email"
+    },
+    "ui_signin_00003": {
+      "key": "ui_signin_00003",
+      "value": "Password"
+    },
+    "ui_signin_00004": {
+      "key": "ui_signin_00004",
+      "value": "Sign in"
+    },
+    "ui_signin_00005": {
+      "key": "ui_signin_00005",
+      "value": "Forgot Password?"
+    },
+    "ui_signin_00006": {
+      "key": "ui_signin_00006",
+      "value": "Please enter password"
+    },
+    "ui_forgotpassword_00001": {
+      "key": "ui_forgotpassword_00001",
+      "value": "Forgot Password"
+    },
+    "ui_forgotpassword_00002": {
+      "key": "ui_forgotpassword_00002",
+      "value": "Please enter your email to search for your account."
+    },
+    "ui_forgotpassword_00003": {
+      "key": "ui_forgotpassword_00003",
+      "value": "Please enter the email"
+    },
+    "ui_forgotpassword_00004": {
+      "key": "ui_forgotpassword_00004",
+      "value": "Submit"
+    },
+    "ui_forgotpassword_00005": {
+      "key": "ui_forgotpassword_00005",
+      "value": "The email has been sent"
+    },
+    "ui_home_00001": {
+      "key": "ui_home_00001",
+      "value": "FULL"
+    },
+    "ui_home_00002": {
+      "key": "ui_home_00002",
+      "value": "Level Chest"
+    },
+    "ui_home_00003": {
+      "key": "ui_home_00003",
+      "value": "Star Chest"
+    },
+    "ui_home_00004": {
+      "key": "ui_home_00004",
+      "value": "NORMAL LEVE-%d"
+    },
+    "ui_home_00005": {
+      "key": "ui_home_00005",
+      "value": "DIFFICULT LEVE-%d"
+    },
+    "ui_home_00006": {
+      "key": "ui_home_00006",
+      "value": "ELITE LEVE-%d"
+    },
+    "ui_home_00007": {
+      "key": "ui_home_00007",
+      "value": "START"
+    },
+    "ui_home_00008": {
+      "key": "ui_home_00008",
+      "value": "BATTLE"
+    },
+    "ui_home_00009": {
+      "key": "ui_home_00009",
+      "value": "Shop"
+    },
+    "ui_home_00010": {
+      "key": "ui_home_00010",
+      "value": "Results"
+    },
+    "ui_home_00011": {
+      "key": "ui_home_00011",
+      "value": "Home"
+    },
+    "ui_home_00012": {
+      "key": "ui_home_00012",
+      "value": "leaderboard"
+    },
+    "ui_home_00013": {
+      "key": "ui_home_00013",
+      "value": "Friends"
+    },
+    "ui_shop_00001": {
+      "key": "ui_shop_00001",
+      "value": "Shop"
+    },
+    "ui_shop_00002": {
+      "key": "ui_shop_00002",
+      "value": "Special Offer!"
+    },
+    "ui_shop_00003": {
+      "key": "ui_shop_00003",
+      "value": "Limited Time %s"
+    },
+    "ui_shop_00004": {
+      "key": "ui_shop_00004",
+      "value": "Master Bundle"
+    },
+    "ui_shop_00005": {
+      "key": "ui_shop_00005",
+      "value": "FULL"
+    },
+    "ui_results_00001": {
+      "key": "ui_results_00001",
+      "value": "Current Tournaments"
+    },
+    "ui_results_00002": {
+      "key": "ui_results_00002",
+      "value": "MATCH"
+    },
+    "ui_results_00003": {
+      "key": "ui_results_00003",
+      "value": "COLLECT"
+    },
+    "ui_results_00004": {
+      "key": "ui_results_00004",
+      "value": "Score"
+    },
+    "ui_results_00005": {
+      "key": "ui_results_00005",
+      "value": "Time"
+    },
+    "ui_results_00006": {
+      "key": "ui_results_00006",
+      "value": "IN PROCRESS"
+    },
+    "ui_results_00007": {
+      "key": "ui_results_00007",
+      "value": "BETTER LUCK NEXT TIME"
+    },
+    "ui_results_00008": {
+      "key": "ui_results_00008",
+      "value": "Completed Tournaments"
+    },
+    "ui_results_00009": {
+      "key": "ui_results_00009",
+      "value": "Collect All"
+    },
+    "ui_friends_00001": {
+      "key": "ui_friends_00001",
+      "value": "You Friends"
+    },
+    "ui_friends_00002": {
+      "key": "ui_friends_00002",
+      "value": "Add Friends"
+    },
+    "ui_friends_00003": {
+      "key": "ui_friends_00003",
+      "value": "Friends"
+    },
+    "ui_friends_00004": {
+      "key": "ui_friends_00004",
+      "value": "Lives"
+    },
+    "ui_friends_00005": {
+      "key": "ui_friends_00005",
+      "value": "Name"
+    },
+    "ui_friends_00006": {
+      "key": "ui_friends_00006",
+      "value": "ID"
+    },
+    "ui_friends_00007": {
+      "key": "ui_friends_00007",
+      "value": "give you one live"
+    },
+    "ui_profile_00001": {
+      "key": "ui_profile_00001",
+      "value": "Profile"
+    },
+    "ui_profile_00002": {
+      "key": "ui_profile_00002",
+      "value": "Achievement"
+    },
+    "ui_profile_00003": {
+      "key": "ui_profile_00003",
+      "value": "Star"
+    },
+    "ui_profile_00004": {
+      "key": "ui_profile_00004",
+      "value": "Level "
+    },
+    "ui_profile_00005": {
+      "key": "ui_profile_00005",
+      "value": "Trophy"
+    },
+    "ui_profile_00006": {
+      "key": "ui_profile_00006",
+      "value": "Star Ranking"
+    },
+    "ui_profile_00007": {
+      "key": "ui_profile_00007",
+      "value": "Trophy Ranking"
+    },
+    "ui_profile_00008": {
+      "key": "ui_profile_00008",
+      "value": "Winning"
+    },
+    "ui_profile_00009": {
+      "key": "ui_profile_00009",
+      "value": "Delete"
+    },
+    "ui_addfriends_00001": {
+      "key": "ui_addfriends_00001",
+      "value": "Friends"
+    },
+    "ui_addfriends_00002": {
+      "key": "ui_addfriends_00002",
+      "value": "You don't have any friends "
+    },
+    "ui_addfriends_00003": {
+      "key": "ui_addfriends_00003",
+      "value": "Go to add friends and play with them"
+    },
+    "ui_addfriends_00004": {
+      "key": "ui_addfriends_00004",
+      "value": "Add friends"
+    },
+    "ui_addfriends_00005": {
+      "key": "ui_addfriends_00005",
+      "value": "You don't have any extra lives!"
+    },
+    "ui_addfriends_00006": {
+      "key": "ui_addfriends_00006",
+      "value": "Add friends and get free lives from your friends"
+    },
+    "ui_addfriends_00007": {
+      "key": "ui_addfriends_00007",
+      "value": "INVITE YOUR FRIENDS"
+    },
+    "ui_addfriends_00008": {
+      "key": "ui_addfriends_00008",
+      "value": "GET PRIZES"
+    },
+    "ui_addfriends_00009": {
+      "key": "ui_addfriends_00009",
+      "value": "for every friend that joins"
+    },
+    "ui_addfriends_00010": {
+      "key": "ui_addfriends_00010",
+      "value": "INVITE FRIENDS"
+    },
+    "ui_addfriends_00011": {
+      "key": "ui_addfriends_00011",
+      "value": "ADD FRIENDS"
+    },
+    "ui_addfriends_00012": {
+      "key": "ui_addfriends_00012",
+      "value": "YOUR ID"
+    },
+    "ui_addfriends_00013": {
+      "key": "ui_addfriends_00013",
+      "value": "Share your Link with other players to start a challenge"
+    },
+    "ui_addfriends_00014": {
+      "key": "ui_addfriends_00014",
+      "value": "SHARE MY LINK"
+    },
+    "ui_addfriends_00015": {
+      "key": "ui_addfriends_00015",
+      "value": "Add friend"
+    },
+    "ui_addfriends_00016": {
+      "key": "ui_addfriends_00016",
+      "value": "Enter friend's ID"
+    },
+    "ui_addfriends_00017": {
+      "key": "ui_addfriends_00017",
+      "value": "Ask for your friend's ID or share your own."
+    },
+    "ui_addfriends_00018": {
+      "key": "ui_addfriends_00018",
+      "value": "Add"
+    },
+    "ui_addfriends_00019": {
+      "key": "ui_addfriends_00019",
+      "value": "Application List"
+    },
+    "ui_addfriends_00020": {
+      "key": "ui_addfriends_00020",
+      "value": "No friend request yet"
+    },
+    "ui_addfriends_00021": {
+      "key": "ui_addfriends_00021",
+      "value": "Invite friends to fight together"
+    },
+    "ui_addfriends_00022": {
+      "key": "ui_addfriends_00022",
+      "value": "Invite friends"
+    },
+    "ui_settings_00001": {
+      "key": "ui_settings_00001",
+      "value": "Settings"
+    },
+    "ui_settings_00002": {
+      "key": "ui_settings_00002",
+      "value": "Help and Support"
+    },
+    "ui_settings_00003": {
+      "key": "ui_settings_00003",
+      "value": "Terrms& Privacy"
+    },
+    "ui_settings_00004": {
+      "key": "ui_settings_00004",
+      "value": "Account"
+    },
+    "ui_settings_00005": {
+      "key": "ui_settings_00005",
+      "value": "Sign in With Facebook"
+    },
+    "ui_settings_00006": {
+      "key": "ui_settings_00006",
+      "value": "Sign in with Apple"
+    },
+    "ui_settings_00007": {
+      "key": "ui_settings_00007",
+      "value": "Singn in with Google"
+    },
+    "ui_help_00001": {
+      "key": "ui_help_00001",
+      "value": "Help and support"
+    },
+    "ui_help_00002": {
+      "key": "ui_help_00002",
+      "value": "Gameplay Guide"
+    },
+    "ui_help_00003": {
+      "key": "ui_help_00003",
+      "value": "Events"
+    },
+    "ui_help_00004": {
+      "key": "ui_help_00004",
+      "value": "Coins & Purchases"
+    },
+    "ui_help_00005": {
+      "key": "ui_help_00005",
+      "value": "Account Management"
+    },
+    "ui_help_00006": {
+      "key": "ui_help_00006",
+      "value": "Contact us"
+    },
+    "ui_contact_00001": {
+      "key": "ui_contact_00001",
+      "value": "Contact us"
+    },
+    "ui_contact_00002": {
+      "key": "ui_contact_00002",
+      "value": "In Game Purchases"
+    },
+    "ui_contact_00003": {
+      "key": "ui_contact_00003",
+      "value": "Advertise ment error "
+    },
+    "ui_contact_00004": {
+      "key": "ui_contact_00004",
+      "value": "Game stuck/Freeze"
+    },
+    "ui_contact_00005": {
+      "key": "ui_contact_00005",
+      "value": "Account & Sign In"
+    },
+    "ui_contact_00006": {
+      "key": "ui_contact_00006",
+      "value": "Other Issues"
+    },
+    "ui_contact_00007": {
+      "key": "ui_contact_00007",
+      "value": "Feedback"
+    },
+    "ui_account_00001": {
+      "key": "ui_account_00001",
+      "value": "Register"
+    },
+    "ui_account_00002": {
+      "key": "ui_account_00002",
+      "value": "Sing in"
+    },
+    "ui_account_00003": {
+      "key": "ui_account_00003",
+      "value": "NEW USER?"
+    },
+    "ui_account_00004": {
+      "key": "ui_account_00004",
+      "value": "EXISTING USER?"
+    },
+    "ui_account_00005": {
+      "key": "ui_account_00005",
+      "value": "Enter Nickname"
+    },
+    "ui_account_00006": {
+      "key": "ui_account_00006",
+      "value": "Nickname"
+    },
+    "ui_account_00007": {
+      "key": "ui_account_00007",
+      "value": "Done"
+    },
+    "ui_account_00008": {
+      "key": "ui_account_00008",
+      "value": "EDIT AVATAR"
+    },
+    "ui_rakinglist_00001": {
+      "key": "ui_rakinglist_00001",
+      "value": "RAKING LIST"
+    },
+    "ui_rakinglist_00002": {
+      "key": "ui_rakinglist_00002",
+      "value": "STAR"
+    },
+    "ui_rakinglist_00003": {
+      "key": "ui_rakinglist_00003",
+      "value": "TROPHY"
+    },
+    "ui_rakinglist_00004": {
+      "key": "ui_rakinglist_00004",
+      "value": "Ranking Reward"
+    },
+    "ui_rakinglist_00005": {
+      "key": "ui_rakinglist_00005",
+      "value": "Season coundown:%sdays %shours"
+    },
+    "ui_rakinglist_00006": {
+      "key": "ui_rakinglist_00006",
+      "value": "Sure"
+    },
+    "ui_rakinglist_00007": {
+      "key": "ui_rakinglist_00007",
+      "value": "RANKING REWARD"
+    },
+    "ui_rakinglist_00008": {
+      "key": "ui_rakinglist_00008",
+      "value": "Tap to claim"
+    },
+    "ui_rakinglist_00009": {
+      "key": "ui_rakinglist_00009",
+      "value": "Tap to continue"
+    },
+    "ui_dailybouns_00001": {
+      "key": "ui_dailybouns_00001",
+      "value": "DAILY BONUS"
+    },
+    "ui_dailybouns_00002": {
+      "key": "ui_dailybouns_00002",
+      "value": "come back tomorrow for more rewards   "
+    },
+    "ui_dailybouns_00003": {
+      "key": "ui_dailybouns_00003",
+      "value": "day%d"
+    },
+    "ui_dailybouns_00010": {
+      "key": "ui_dailybouns_00010",
+      "value": "Tap to collect the reward"
+    },
+    "ui_dailybouns_00011": {
+      "key": "ui_dailybouns_00011",
+      "value": "Game props and Coins"
+    },
+    "ui_dailybouns_00012": {
+      "key": "ui_dailybouns_00012",
+      "value": "Collect"
+    },
+    "ui_game_00001": {
+      "key": "ui_game_00001",
+      "value": "LEVEL %d"
+    },
+    "ui_game_00002": {
+      "key": "ui_game_00002",
+      "value": "Play"
+    },
+    "ui_game_00003": {
+      "key": "ui_game_00003",
+      "value": "Select Boosters"
+    },
+    "ui_game_00004": {
+      "key": "ui_game_00004",
+      "value": "Battle"
+    },
+    "ui_game_00005": {
+      "key": "ui_game_00005",
+      "value": "RESUME"
+    },
+    "ui_game_00006": {
+      "key": "ui_game_00006",
+      "value": "QUIT"
+    },
+    "ui_game_00007": {
+      "key": "ui_game_00007",
+      "value": "Level Completed"
+    },
+    "ui_game_00008": {
+      "key": "ui_game_00008",
+      "value": "Star"
+    },
+    "ui_game_00009": {
+      "key": "ui_game_00009",
+      "value": "Time Bonus"
+    },
+    "ui_game_00010": {
+      "key": "ui_game_00010",
+      "value": "Final Star"
+    },
+    "ui_game_00011": {
+      "key": "ui_game_00011",
+      "value": "TIME IS UP"
+    },
+    "ui_game_00012": {
+      "key": "ui_game_00012",
+      "value": "Add 60 seconds"
+    },
+    "ui_game_00013": {
+      "key": "ui_game_00013",
+      "value": "Give Up"
+    },
+    "ui_game_00014": {
+      "key": "ui_game_00014",
+      "value": "Play on"
+    },
+    "ui_game_00015": {
+      "key": "ui_game_00015",
+      "value": "Game Over"
+    },
+    "ui_game_00016": {
+      "key": "ui_game_00016",
+      "value": "Score"
+    },
+    "ui_game_00017": {
+      "key": "ui_game_00017",
+      "value": "Time Bonus"
+    },
+    "ui_game_00018": {
+      "key": "ui_game_00018",
+      "value": "Final Score"
+    },
+    "ui_game_00019": {
+      "key": "ui_game_00019",
+      "value": "Submit Score"
+    },
+    "ui_game_00020": {
+      "key": "ui_game_00020",
+      "value": "Game Result"
+    },
+    "ui_game_00021": {
+      "key": "ui_game_00021",
+      "value": "Close"
+    },
+    "ui_game_00022": {
+      "key": "ui_game_00022",
+      "value": "Waiting for other players......"
+    },
+    "ui_game_00023": {
+      "key": "ui_game_00023",
+      "value": "Suspend"
+    },
+    "ui_tips_00001": {
+      "key": "ui_tips_00001",
+      "value": "%s has accepted your challenge, go to battle?"
+    },
+    "ui_tips_00002": {
+      "key": "ui_tips_00002",
+      "value": "%s Invite you to a battle!"
+    },
+    "ui_tips_00003": {
+      "key": "ui_tips_00003",
+      "value": "play"
+    },
+    "ui_rules_00001": {
+      "key": "ui_rules_00001",
+      "value": "Rules"
+    },
+    "ui_rules_00002": {
+      "key": "ui_rules_00002",
+      "value": "*You will be ranked accoding to you score after all players complete the match.\n\n*All players in the game are give the same 3d object collection tasks.\n\n*For players with the same final scores,those who finish the game earlier will be ranked higher."
+    },
+    "item_200001": {
+      "key": "item_200001",
+      "value": "Magnifier"
+    },
+    "item_200002": {
+      "key": "item_200002",
+      "value": "Magnet"
+    },
+    "item_200003": {
+      "key": "item_200003",
+      "value": "Time"
+    },
+    "item_200004": {
+      "key": "item_200004",
+      "value": "Light"
+    },
+    "item_200005": {
+      "key": "item_200005",
+      "value": "Freezing"
+    },
+    "item_200006": {
+      "key": "item_200006",
+      "value": "Lives"
+    },
+    "item_200007": {
+      "key": "item_200007",
+      "value": "Golds"
+    },
+    "item_200008": {
+      "key": "item_200008",
+      "value": "Reset"
+    },
+    "item_200009": {
+      "key": "item_200009",
+      "value": "InfiniteLives"
+    },
+    "item_200010": {
+      "key": "item_200010",
+      "value": "Trophy"
+    },
+    "ui_tip_00001": {
+      "key": "ui_tip_00001",
+      "value": "successful gift of life"
+    },
+    "ui_tip_00002": {
+      "key": "ui_tip_00002",
+      "value": "Each person can give 1 life per day"
+    },
+    "ui_tip_00003": {
+      "key": "ui_tip_00003",
+      "value": "Added successfully"
+    },
+    "ui_tip_00004": {
+      "key": "ui_tip_00004",
+      "value": "Successfully invited friends"
+    },
+    "ui_tip_00005": {
+      "key": "ui_tip_00005",
+      "value": "Decline friend invitation"
+    },
+    "ui_tip_00006": {
+      "key": "ui_tip_00006",
+      "value": "collect life"
+    },
+    "ui_tip_00007": {
+      "key": "ui_tip_00007",
+      "value": "Copy ID"
+    },
+    "ui_tip_00008": {
+      "key": "ui_tip_00008",
+      "value": "Not enough %s.Do  you want to buy another?"
+    },
+    "ui_tip_00009": {
+      "key": "ui_tip_00009",
+      "value": ""
+    },
+    "ui_tip_00010": {
+      "key": "ui_tip_00010",
+      "value": ""
+    },
+    "ui_tip_00011": {
+      "key": "ui_tip_00011",
+      "value": "Password length must be between 6-16 characters."
+    },
+    "ui_tip_00012": {
+      "key": "ui_tip_00012",
+      "value": "Please go to the registered email address to activate the account."
+    },
+    "ui_tip_00013": {
+      "key": "ui_tip_00013",
+      "value": "The registered account can retrieve the password or register a new email address."
+    },
+    "ui_tip_00014": {
+      "key": "ui_tip_00014",
+      "value": "Username cannot be empty"
+    },
+    "ui_tip_00015": {
+      "key": "ui_tip_00015",
+      "value": "Username is invalid, please re-enter!"
+    },
+    "ui_tip_00016": {
+      "key": "ui_tip_00016",
+      "value": "Modified successfully"
+    },
+    "ui_tip_00017": {
+      "key": "ui_tip_00017",
+      "value": "wrong password"
+    },
+    "ui_tip_00018": {
+      "key": "ui_tip_00018",
+      "value": "The account is not registered"
+    },
+    "ui_tip_00019": {
+      "key": "ui_tip_00019",
+      "value": "Account not activated"
+    },
+    "ui_tip_00020": {
+      "key": "ui_tip_00020",
+      "value": "Successful purchase"
+    },
+    "ui_tip_00021": {
+      "key": "ui_tip_00021",
+      "value": "friend deleted"
+    },
+    "ui_tip_00022": {
+      "key": "ui_tip_00022",
+      "value": "Unlimited stamina cannot buy stamina"
+    },
+    "ui_tip_00023": {
+      "key": "ui_tip_00023",
+      "value": "Not available for purchase"
+    },
+    "ui_tip_00024": {
+      "key": "ui_tip_00024",
+      "value": "Item not unlocked"
+    },
+    "ui_tip_00025": {
+      "key": "ui_tip_00025",
+      "value": ""
+    },
+    "ui_tip_00026": {
+      "key": "ui_tip_00026",
+      "value": "Added successfully"
+    },
+    "ui_tip_00027": {
+      "key": "ui_tip_00027",
+      "value": "The ID does not exist"
+    },
+    "ui_tip_00028": {
+      "key": "ui_tip_00028",
+      "value": "Can't add myself as a friend"
+    },
+    "ui_tip_00029": {
+      "key": "ui_tip_00029",
+      "value": "UID cannot be null"
+    },
+    "ui_starreward_00001": {
+      "key": "ui_starreward_00001",
+      "value": "Star Ranking Reward"
+    },
+    "ui_trophyreward_00001": {
+      "key": "ui_trophyreward_00001",
+      "value": "Trophy Ranking Reward"
+    },
+    "ui_record_00001": {
+      "key": "ui_record_00001",
+      "value": "No Record Data"
+    },
+    "ui_store_00001": {
+      "key": "ui_store_00001",
+      "value": "BEST PRICE"
+    },
+    "ui_store_00002": {
+      "key": "ui_store_00002",
+      "value": "MOST POPULAR"
+    },
+    "ui_reward_00001": {
+      "key": "ui_reward_00001",
+      "value": "GET REWARDS"
+    },
+    "ui_live_00001": {
+      "key": "ui_live_00001",
+      "value": "Fill up lives"
+    },
+    "ui_live_00002": {
+      "key": "ui_live_00002",
+      "value": "NO THANKS"
+    },
+    "item_des_200001": {
+      "key": "item_des_200001",
+      "value": "Zoom in on 3 goal items"
+    },
+    "item_des_200002": {
+      "key": "item_des_200002",
+      "value": "Pulls a goal item and collects it"
+    },
+    "item_des_200003": {
+      "key": "item_des_200003",
+      "value": "Start with 10s extra time"
+    },
+    "item_des_200004": {
+      "key": "item_des_200004",
+      "value": "Hints on a goal item's location"
+    },
+    "item_des_200005": {
+      "key": "item_des_200005",
+      "value": "Freezing time 10 seconds"
+    },
+    "item_des_200006": {
+      "key": "item_des_200006",
+      "value": "Fill up lives"
+    },
+    "item_des_200008": {
+      "key": "item_des_200008",
+      "value": "Refresh all items"
+    },
+    "pvp_tips_00001": {
+      "key": "pvp_tips_00001",
+      "value": "players"
+    },
+    "pvp_tips_00002": {
+      "key": "pvp_tips_00002",
+      "value": "Estimated %s seconds: %ss"
+    },
+    "ui_tip_00030": {
+      "key": "ui_tip_00030",
+      "value": "lack of life"
+    },
+    "ui_tip_00031": {
+      "key": "ui_tip_00031",
+      "value": "Received successfully"
+    },
+    "ui_tip_00032": {
+      "key": "ui_tip_00032",
+      "value": "Not enough gold coins"
+    },
+    "ui_tip_00033": {
+      "key": "ui_tip_00033",
+      "value": "Check your internet connection and try again."
+    }
+  }
+}

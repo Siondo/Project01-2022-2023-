@@ -1,0 +1,16 @@
+{
+  "ItemUnlockPVE": {
+    "3000020": {
+      "LevelID": 3000020,
+      "ItemID": 200002,
+      "Icon": "icon_dj_ct",
+      "DeductNum": "1"
+    },
+    "3000025": {
+      "LevelID": 3000025,
+      "ItemID": 200003,
+      "Icon": "icon_dj_sz",
+      "DeductNum": "1"
+    }
+  }
+}

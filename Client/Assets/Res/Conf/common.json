@@ -1,0 +1,24 @@
+{
+  "common": {
+    "BGM": {
+      "key": "BGM",
+      "value": 0.4,
+      "value1": ""
+    },
+    "Audio": {
+      "key": "Audio",
+      "value": 0.7,
+      "value1": ""
+    },
+    "StartTime": {
+      "key": "StartTime",
+      "value": 5.0,
+      "value1": ""
+    },
+    "Email": {
+      "key": "Email",
+      "value": 0.0,
+      "value1": "jiujiukyi@jiujiukyi.com"
+    }
+  }
+}

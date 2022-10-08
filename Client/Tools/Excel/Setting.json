@@ -1,0 +1,19 @@
+﻿{
+  "Excel": "../../../..//Config",
+  "Json": "../..//Assets/Res/Conf",
+  "TypeIndex": "1",
+  "TypeFormat": ":",
+  "TypeFormatIndex": "0",
+  "NameIndex": "2",
+  "NameFormat": ":",
+  "NameFormatIndex": "0",
+  "AttrIndex": "2",
+  "AttrFormat": ":",
+  "AttrFormatIndex": "1",
+  "PointIndex": "3",
+  "LangTag": "lang",
+  "LangUUID": "uuid",
+  "Lang": "cn",
+  "LangFile": "lang.xls",
+  "CmdType": "1"
+}

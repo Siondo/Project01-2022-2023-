@@ -1,0 +1,336 @@
+{
+  "Store": {
+    "7000001": {
+      "StoreID": 7000001,
+      "DisplayContent": [
+        [
+          200007,
+          200
+        ]
+      ],
+      "Content": [],
+      "WhetherAD": 1,
+      "Price": 5.99,
+      "Discount": 1.0,
+      "Duration": 24,
+      "Type": "Shop_Slot_1",
+      "Name": "ui_shop_00002",
+      "Limitbuy": 1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000002": {
+      "StoreID": 7000002,
+      "DisplayContent": [
+        [
+          200007,
+          500
+        ]
+      ],
+      "Content": [
+        [
+          200001,
+          1
+        ],
+        [
+          200004,
+          1
+        ],
+        [
+          200005,
+          1
+        ],
+        [
+          200008,
+          1
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 6.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_5",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": "ui_store_00001"
+    },
+    "7000003": {
+      "StoreID": 7000003,
+      "DisplayContent": [
+        [
+          200007,
+          1000
+        ]
+      ],
+      "Content": [
+        [
+          200001,
+          2
+        ],
+        [
+          200004,
+          2
+        ],
+        [
+          200005,
+          2
+        ],
+        [
+          200008,
+          2
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 12.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_5",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": "ui_store_00002"
+    },
+    "7000004": {
+      "StoreID": 7000004,
+      "DisplayContent": [
+        [
+          200007,
+          2500
+        ]
+      ],
+      "Content": [
+        [
+          200002,
+          6
+        ],
+        [
+          200003,
+          6
+        ],
+        [
+          200005,
+          6
+        ],
+        [
+          200009,
+          1800
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 24.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_2",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000005": {
+      "StoreID": 7000005,
+      "DisplayContent": [
+        [
+          200007,
+          5000
+        ]
+      ],
+      "Content": [
+        [
+          200002,
+          12
+        ],
+        [
+          200003,
+          12
+        ],
+        [
+          200005,
+          12
+        ],
+        [
+          200009,
+          172800
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 49.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_2",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000006": {
+      "StoreID": 7000006,
+      "DisplayContent": [
+        [
+          200007,
+          6500
+        ]
+      ],
+      "Content": [
+        [
+          200002,
+          24
+        ],
+        [
+          200003,
+          24
+        ],
+        [
+          200005,
+          24
+        ],
+        [
+          200009,
+          345600
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 99.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_2",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000007": {
+      "StoreID": 7000007,
+      "DisplayContent": [],
+      "Content": [
+        [
+          200007,
+          10
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 0.0,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_3",
+      "Name": "ui_shop_00004",
+      "Limitbuy": 10,
+      "CD": 60,
+      "LimitWord": ""
+    },
+    "7000008": {
+      "StoreID": 7000008,
+      "DisplayContent": [],
+      "Content": [
+        [
+          200007,
+          150
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 1.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_4",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000009": {
+      "StoreID": 7000009,
+      "DisplayContent": [],
+      "Content": [
+        [
+          200007,
+          500
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 4.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_4",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000010": {
+      "StoreID": 7000010,
+      "DisplayContent": [],
+      "Content": [
+        [
+          200007,
+          1000
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 9.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_4",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000011": {
+      "StoreID": 7000011,
+      "DisplayContent": [],
+      "Content": [
+        [
+          200007,
+          2000
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 19.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_4",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000012": {
+      "StoreID": 7000012,
+      "DisplayContent": [],
+      "Content": [
+        [
+          200007,
+          4000
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 39.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_4",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    },
+    "7000013": {
+      "StoreID": 7000013,
+      "DisplayContent": [],
+      "Content": [
+        [
+          200007,
+          8000
+        ]
+      ],
+      "WhetherAD": 0,
+      "Price": 79.99,
+      "Discount": 1.0,
+      "Duration": -1,
+      "Type": "Shop_Slot_4",
+      "Name": "ui_shop_00004",
+      "Limitbuy": -1,
+      "CD": 0,
+      "LimitWord": ""
+    }
+  }
+}

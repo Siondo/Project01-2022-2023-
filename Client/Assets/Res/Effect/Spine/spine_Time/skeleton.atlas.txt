@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 226,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Glow_901
+  rotate: false
+  xy: 2, 46
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shizhong
+  rotate: true
+  xy: 132, 89
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+zhizhen
+  rotate: true
+  xy: 132, 2
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1

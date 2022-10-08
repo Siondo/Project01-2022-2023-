@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 624,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Glow_909
+  rotate: false
+  xy: 490, 334
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+common_bg_yuandi
+  rotate: false
+  xy: 2, 464
+  size: 620, 590
+  orig: 620, 590
+  offset: 0, 0
+  index: -1
+icon_+
+  rotate: false
+  xy: 490, 206
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+icon_txk_1
+  rotate: false
+  xy: 2, 2
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+icon_txk_2
+  rotate: false
+  xy: 264, 238
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+icon_txk_3
+  rotate: false
+  xy: 228, 2
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+icon_vs
+  rotate: false
+  xy: 2, 228
+  size: 260, 234
+  orig: 260, 234
+  offset: 0, 0
+  index: -1

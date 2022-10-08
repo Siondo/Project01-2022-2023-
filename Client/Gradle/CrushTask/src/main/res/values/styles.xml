@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+<style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen"></style>
+<style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+<!--    Only for GDT-->
+<style name="DownloadConfirmDialogFullScreen" parent="android:Theme.Dialog">
+    <item name="android:windowFullscreen">true</item>
+</style>
+<style name="DownloadConfirmDialogAnimationUp">
+    <item name="android:windowEnterAnimation">@anim/download_confirm_dialog_slide_up</item>
+</style>
+<style name="DownloadConfirmDialogAnimationRight">
+    <item name="android:windowEnterAnimation">@anim/download_confirm_dialog_slide_right_in</item>
+</style>
+<!--全透明-->
+<style name="SplashActivity" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowIsTranslucent">false</item>
+    <item name="android:windowAnimationStyle">@android:style/Animation</item>
+</style>
+</resources>

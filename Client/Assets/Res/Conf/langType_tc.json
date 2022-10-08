@@ -1,0 +1,904 @@
+{
+  "langType": {
+    "ui_login_00001": {
+      "key": "ui_login_00001",
+      "value": "消除大師-PVP3D"
+    },
+    "ui_login_00002": {
+      "key": "ui_login_00002",
+      "value": "登錄"
+    },
+    "ui_login_00003": {
+      "key": "ui_login_00003",
+      "value": "蘋果賬號登錄"
+    },
+    "ui_login_00004": {
+      "key": "ui_login_00004",
+      "value": "Facebook賬號登錄"
+    },
+    "ui_login_00005": {
+      "key": "ui_login_00005",
+      "value": "已有賬號？"
+    },
+    "ui_login_00006": {
+      "key": "ui_login_00006",
+      "value": "注冊"
+    },
+    "ui_login_00007": {
+      "key": "ui_login_00007",
+      "value": "谷歌賬號登錄"
+    },
+    "ui_login_00008": {
+      "key": "ui_login_00008",
+      "value": "登錄"
+    },
+    "ui_register_00001": {
+      "key": "ui_register_00001",
+      "value": "注冊"
+    },
+    "ui_register_00002": {
+      "key": "ui_register_00002",
+      "value": "請確保你輸入的電子郵件地址正確，否則注冊將失敗"
+    },
+    "ui_register_00003": {
+      "key": "ui_register_00003",
+      "value": "電子郵件"
+    },
+    "ui_register_00004": {
+      "key": "ui_register_00004",
+      "value": "請輸入電子郵件地址"
+    },
+    "ui_register_00005": {
+      "key": "ui_register_00005",
+      "value": "密碼"
+    },
+    "ui_register_00006": {
+      "key": "ui_register_00006",
+      "value": "請輸入6~16位的密碼"
+    },
+    "ui_register_00007": {
+      "key": "ui_register_00007",
+      "value": "聯系我們"
+    },
+    "ui_register_00008": {
+      "key": "ui_register_00008",
+      "value": "登錄"
+    },
+    "ui_register_00009": {
+      "key": "ui_register_00009",
+      "value": "注冊"
+    },
+    "ui_register_00010": {
+      "key": "ui_register_00010",
+      "value": "需要幫助？"
+    },
+    "ui_signin_00001": {
+      "key": "ui_signin_00001",
+      "value": "電子郵件"
+    },
+    "ui_signin_00002": {
+      "key": "ui_signin_00002",
+      "value": "請輸入電子郵件地址"
+    },
+    "ui_signin_00003": {
+      "key": "ui_signin_00003",
+      "value": "密碼"
+    },
+    "ui_signin_00004": {
+      "key": "ui_signin_00004",
+      "value": "登錄"
+    },
+    "ui_signin_00005": {
+      "key": "ui_signin_00005",
+      "value": "忘記密碼"
+    },
+    "ui_signin_00006": {
+      "key": "ui_signin_00006",
+      "value": "請輸入密碼"
+    },
+    "ui_forgotpassword_00001": {
+      "key": "ui_forgotpassword_00001",
+      "value": "忘記密碼"
+    },
+    "ui_forgotpassword_00002": {
+      "key": "ui_forgotpassword_00002",
+      "value": "請輸入您的電子郵件以搜索您的賬戶"
+    },
+    "ui_forgotpassword_00003": {
+      "key": "ui_forgotpassword_00003",
+      "value": "請輸入電子郵件"
+    },
+    "ui_forgotpassword_00004": {
+      "key": "ui_forgotpassword_00004",
+      "value": "提交"
+    },
+    "ui_forgotpassword_00005": {
+      "key": "ui_forgotpassword_00005",
+      "value": "已發送郵件到您電子郵箱"
+    },
+    "ui_home_00001": {
+      "key": "ui_home_00001",
+      "value": "5"
+    },
+    "ui_home_00002": {
+      "key": "ui_home_00002",
+      "value": "等級寶箱"
+    },
+    "ui_home_00003": {
+      "key": "ui_home_00003",
+      "value": "星星寶箱"
+    },
+    "ui_home_00004": {
+      "key": "ui_home_00004",
+      "value": "普通 第%d關"
+    },
+    "ui_home_00005": {
+      "key": "ui_home_00005",
+      "value": "團難 第%d關"
+    },
+    "ui_home_00006": {
+      "key": "ui_home_00006",
+      "value": "精英 第%d關"
+    },
+    "ui_home_00007": {
+      "key": "ui_home_00007",
+      "value": "開始"
+    },
+    "ui_home_00008": {
+      "key": "ui_home_00008",
+      "value": "戰鬥"
+    },
+    "ui_home_00009": {
+      "key": "ui_home_00009",
+      "value": "商店"
+    },
+    "ui_home_00010": {
+      "key": "ui_home_00010",
+      "value": "戰績"
+    },
+    "ui_home_00011": {
+      "key": "ui_home_00011",
+      "value": "主界面"
+    },
+    "ui_home_00012": {
+      "key": "ui_home_00012",
+      "value": "排行榜"
+    },
+    "ui_home_00013": {
+      "key": "ui_home_00013",
+      "value": "好友"
+    },
+    "ui_shop_00001": {
+      "key": "ui_shop_00001",
+      "value": "商店"
+    },
+    "ui_shop_00002": {
+      "key": "ui_shop_00002",
+      "value": "特價"
+    },
+    "ui_shop_00003": {
+      "key": "ui_shop_00003",
+      "value": "限時優惠%s"
+    },
+    "ui_shop_00004": {
+      "key": "ui_shop_00004",
+      "value": "黑金禮包"
+    },
+    "ui_shop_00005": {
+      "key": "ui_shop_00005",
+      "value": "5"
+    },
+    "ui_results_00001": {
+      "key": "ui_results_00001",
+      "value": "當前戰鬥結果"
+    },
+    "ui_results_00002": {
+      "key": "ui_results_00002",
+      "value": "匹配 "
+    },
+    "ui_results_00003": {
+      "key": "ui_results_00003",
+      "value": "獲得"
+    },
+    "ui_results_00004": {
+      "key": "ui_results_00004",
+      "value": "分數"
+    },
+    "ui_results_00005": {
+      "key": "ui_results_00005",
+      "value": "時間"
+    },
+    "ui_results_00006": {
+      "key": "ui_results_00006",
+      "value": "進行中"
+    },
+    "ui_results_00007": {
+      "key": "ui_results_00007",
+      "value": "下次好運"
+    },
+    "ui_results_00008": {
+      "key": "ui_results_00008",
+      "value": "已完成比賽"
+    },
+    "ui_results_00009": {
+      "key": "ui_results_00009",
+      "value": "全部領取"
+    },
+    "ui_friends_00001": {
+      "key": "ui_friends_00001",
+      "value": "你的好友"
+    },
+    "ui_friends_00002": {
+      "key": "ui_friends_00002",
+      "value": "添加好友"
+    },
+    "ui_friends_00003": {
+      "key": "ui_friends_00003",
+      "value": "好友"
+    },
+    "ui_friends_00004": {
+      "key": "ui_friends_00004",
+      "value": "體力"
+    },
+    "ui_friends_00005": {
+      "key": "ui_friends_00005",
+      "value": "昵稱"
+    },
+    "ui_friends_00006": {
+      "key": "ui_friends_00006",
+      "value": "ID"
+    },
+    "ui_friends_00007": {
+      "key": "ui_friends_00007",
+      "value": "%s贈送你一點體力"
+    },
+    "ui_profile_00001": {
+      "key": "ui_profile_00001",
+      "value": "個人資料"
+    },
+    "ui_profile_00002": {
+      "key": "ui_profile_00002",
+      "value": "成就"
+    },
+    "ui_profile_00003": {
+      "key": "ui_profile_00003",
+      "value": "星星"
+    },
+    "ui_profile_00004": {
+      "key": "ui_profile_00004",
+      "value": "等級"
+    },
+    "ui_profile_00005": {
+      "key": "ui_profile_00005",
+      "value": "獎杯"
+    },
+    "ui_profile_00006": {
+      "key": "ui_profile_00006",
+      "value": "星星排名"
+    },
+    "ui_profile_00007": {
+      "key": "ui_profile_00007",
+      "value": "獎杯排名"
+    },
+    "ui_profile_00008": {
+      "key": "ui_profile_00008",
+      "value": "勝率"
+    },
+    "ui_profile_00009": {
+      "key": "ui_profile_00009",
+      "value": "刪除"
+    },
+    "ui_addfriends_00001": {
+      "key": "ui_addfriends_00001",
+      "value": "好友"
+    },
+    "ui_addfriends_00002": {
+      "key": "ui_addfriends_00002",
+      "value": "你還沒有好友"
+    },
+    "ui_addfriends_00003": {
+      "key": "ui_addfriends_00003",
+      "value": "去添加好友和好友一起對戰！"
+    },
+    "ui_addfriends_00004": {
+      "key": "ui_addfriends_00004",
+      "value": "添加好友"
+    },
+    "ui_addfriends_00005": {
+      "key": "ui_addfriends_00005",
+      "value": "你沒有好友贈送的體力，添加好友讓他們給你贈送體力吧！"
+    },
+    "ui_addfriends_00006": {
+      "key": "ui_addfriends_00006",
+      "value": "添加好友可獲得好友贈送的體力"
+    },
+    "ui_addfriends_00007": {
+      "key": "ui_addfriends_00007",
+      "value": "邀請好友"
+    },
+    "ui_addfriends_00008": {
+      "key": "ui_addfriends_00008",
+      "value": "獲得獎勵"
+    },
+    "ui_addfriends_00009": {
+      "key": "ui_addfriends_00009",
+      "value": "每個好友都會為您帶來一份獎勵"
+    },
+    "ui_addfriends_00010": {
+      "key": "ui_addfriends_00010",
+      "value": "邀請好友"
+    },
+    "ui_addfriends_00011": {
+      "key": "ui_addfriends_00011",
+      "value": "添加好友"
+    },
+    "ui_addfriends_00012": {
+      "key": "ui_addfriends_00012",
+      "value": "你的ID"
+    },
+    "ui_addfriends_00013": {
+      "key": "ui_addfriends_00013",
+      "value": "分享此鏈接給好友"
+    },
+    "ui_addfriends_00014": {
+      "key": "ui_addfriends_00014",
+      "value": "分享"
+    },
+    "ui_addfriends_00015": {
+      "key": "ui_addfriends_00015",
+      "value": "添加好友"
+    },
+    "ui_addfriends_00016": {
+      "key": "ui_addfriends_00016",
+      "value": "輸入好友ID"
+    },
+    "ui_addfriends_00017": {
+      "key": "ui_addfriends_00017",
+      "value": "詢問好友ID或分享自己的ID"
+    },
+    "ui_addfriends_00018": {
+      "key": "ui_addfriends_00018",
+      "value": "添加"
+    },
+    "ui_addfriends_00019": {
+      "key": "ui_addfriends_00019",
+      "value": "好友申請"
+    },
+    "ui_addfriends_00020": {
+      "key": "ui_addfriends_00020",
+      "value": "暫時沒有好友申請"
+    },
+    "ui_addfriends_00021": {
+      "key": "ui_addfriends_00021",
+      "value": "邀請好友一起戰鬥"
+    },
+    "ui_addfriends_00022": {
+      "key": "ui_addfriends_00022",
+      "value": "邀請好友"
+    },
+    "ui_settings_00001": {
+      "key": "ui_settings_00001",
+      "value": "設置"
+    },
+    "ui_settings_00002": {
+      "key": "ui_settings_00002",
+      "value": "幫助&支持"
+    },
+    "ui_settings_00003": {
+      "key": "ui_settings_00003",
+      "value": "隱私協議"
+    },
+    "ui_settings_00004": {
+      "key": "ui_settings_00004",
+      "value": "賬號"
+    },
+    "ui_settings_00005": {
+      "key": "ui_settings_00005",
+      "value": "Facebook賬號綁定"
+    },
+    "ui_settings_00006": {
+      "key": "ui_settings_00006",
+      "value": "蘋果賬號綁定"
+    },
+    "ui_settings_00007": {
+      "key": "ui_settings_00007",
+      "value": "Google賬號綁定"
+    },
+    "ui_help_00001": {
+      "key": "ui_help_00001",
+      "value": "幫助&支持"
+    },
+    "ui_help_00002": {
+      "key": "ui_help_00002",
+      "value": "遊戲指南"
+    },
+    "ui_help_00003": {
+      "key": "ui_help_00003",
+      "value": "活動"
+    },
+    "ui_help_00004": {
+      "key": "ui_help_00004",
+      "value": "金幣購買"
+    },
+    "ui_help_00005": {
+      "key": "ui_help_00005",
+      "value": "賬號"
+    },
+    "ui_help_00006": {
+      "key": "ui_help_00006",
+      "value": "聯系我們"
+    },
+    "ui_contact_00001": {
+      "key": "ui_contact_00001",
+      "value": "聯系我們"
+    },
+    "ui_contact_00002": {
+      "key": "ui_contact_00002",
+      "value": "購買問題"
+    },
+    "ui_contact_00003": {
+      "key": "ui_contact_00003",
+      "value": "廣告錯誤"
+    },
+    "ui_contact_00004": {
+      "key": "ui_contact_00004",
+      "value": "遊戲卡住"
+    },
+    "ui_contact_00005": {
+      "key": "ui_contact_00005",
+      "value": "賬號&登錄"
+    },
+    "ui_contact_00006": {
+      "key": "ui_contact_00006",
+      "value": "其他問題"
+    },
+    "ui_contact_00007": {
+      "key": "ui_contact_00007",
+      "value": "意見&建議"
+    },
+    "ui_account_00001": {
+      "key": "ui_account_00001",
+      "value": "注冊"
+    },
+    "ui_account_00002": {
+      "key": "ui_account_00002",
+      "value": "登錄"
+    },
+    "ui_account_00003": {
+      "key": "ui_account_00003",
+      "value": "新玩家?"
+    },
+    "ui_account_00004": {
+      "key": "ui_account_00004",
+      "value": "老玩家?"
+    },
+    "ui_account_00005": {
+      "key": "ui_account_00005",
+      "value": "輸入昵稱"
+    },
+    "ui_account_00006": {
+      "key": "ui_account_00006",
+      "value": "昵稱"
+    },
+    "ui_account_00007": {
+      "key": "ui_account_00007",
+      "value": "保存"
+    },
+    "ui_account_00008": {
+      "key": "ui_account_00008",
+      "value": "編輯頭像"
+    },
+    "ui_rakinglist_00001": {
+      "key": "ui_rakinglist_00001",
+      "value": "排行榜"
+    },
+    "ui_rakinglist_00002": {
+      "key": "ui_rakinglist_00002",
+      "value": "星星排行"
+    },
+    "ui_rakinglist_00003": {
+      "key": "ui_rakinglist_00003",
+      "value": "獎杯排行"
+    },
+    "ui_rakinglist_00004": {
+      "key": "ui_rakinglist_00004",
+      "value": "當前排名獎勵"
+    },
+    "ui_rakinglist_00005": {
+      "key": "ui_rakinglist_00005",
+      "value": "賽季倒計時：%s天%s小時"
+    },
+    "ui_rakinglist_00006": {
+      "key": "ui_rakinglist_00006",
+      "value": "確認"
+    },
+    "ui_rakinglist_00007": {
+      "key": "ui_rakinglist_00007",
+      "value": "排名獎勵"
+    },
+    "ui_rakinglist_00008": {
+      "key": "ui_rakinglist_00008",
+      "value": "點擊領取"
+    },
+    "ui_rakinglist_00009": {
+      "key": "ui_rakinglist_00009",
+      "value": "點擊繼續"
+    },
+    "ui_dailybouns_00001": {
+      "key": "ui_dailybouns_00001",
+      "value": "每日獎勵"
+    },
+    "ui_dailybouns_00002": {
+      "key": "ui_dailybouns_00002",
+      "value": "明天回來獲得更多獎勵"
+    },
+    "ui_dailybouns_00003": {
+      "key": "ui_dailybouns_00003",
+      "value": "第%d"
+    },
+    "ui_dailybouns_00010": {
+      "key": "ui_dailybouns_00010",
+      "value": "點擊領取獎勵"
+    },
+    "ui_dailybouns_00011": {
+      "key": "ui_dailybouns_00011",
+      "value": "遊戲道具和金幣"
+    },
+    "ui_dailybouns_00012": {
+      "key": "ui_dailybouns_00012",
+      "value": "簽到"
+    },
+    "ui_game_00001": {
+      "key": "ui_game_00001",
+      "value": "第%d關"
+    },
+    "ui_game_00002": {
+      "key": "ui_game_00002",
+      "value": "開始"
+    },
+    "ui_game_00003": {
+      "key": "ui_game_00003",
+      "value": "選擇道具"
+    },
+    "ui_game_00004": {
+      "key": "ui_game_00004",
+      "value": "戰鬥"
+    },
+    "ui_game_00005": {
+      "key": "ui_game_00005",
+      "value": "繼續"
+    },
+    "ui_game_00006": {
+      "key": "ui_game_00006",
+      "value": "退出"
+    },
+    "ui_game_00007": {
+      "key": "ui_game_00007",
+      "value": "闖關成功"
+    },
+    "ui_game_00008": {
+      "key": "ui_game_00008",
+      "value": "星星"
+    },
+    "ui_game_00009": {
+      "key": "ui_game_00009",
+      "value": "時間獎勵"
+    },
+    "ui_game_00010": {
+      "key": "ui_game_00010",
+      "value": "星星總數"
+    },
+    "ui_game_00011": {
+      "key": "ui_game_00011",
+      "value": "時間已到"
+    },
+    "ui_game_00012": {
+      "key": "ui_game_00012",
+      "value": "加60秒"
+    },
+    "ui_game_00013": {
+      "key": "ui_game_00013",
+      "value": "放棄"
+    },
+    "ui_game_00014": {
+      "key": "ui_game_00014",
+      "value": "繼續玩"
+    },
+    "ui_game_00015": {
+      "key": "ui_game_00015",
+      "value": "遊戲結束"
+    },
+    "ui_game_00016": {
+      "key": "ui_game_00016",
+      "value": "分數"
+    },
+    "ui_game_00017": {
+      "key": "ui_game_00017",
+      "value": "時間獎勵"
+    },
+    "ui_game_00018": {
+      "key": "ui_game_00018",
+      "value": "獲得總分"
+    },
+    "ui_game_00019": {
+      "key": "ui_game_00019",
+      "value": "提交分數"
+    },
+    "ui_game_00020": {
+      "key": "ui_game_00020",
+      "value": "比賽結果"
+    },
+    "ui_game_00021": {
+      "key": "ui_game_00021",
+      "value": "關閉"
+    },
+    "ui_game_00022": {
+      "key": "ui_game_00022",
+      "value": "等待其他玩家......"
+    },
+    "ui_game_00023": {
+      "key": "ui_game_00023",
+      "value": "暫停"
+    },
+    "ui_tips_00001": {
+      "key": "ui_tips_00001",
+      "value": "%s接受了你的挑戰，現可前往比賽"
+    },
+    "ui_tips_00002": {
+      "key": "ui_tips_00002",
+      "value": "%s 邀請你進行比賽"
+    },
+    "ui_tips_00003": {
+      "key": "ui_tips_00003",
+      "value": "玩"
+    },
+    "ui_rules_00001": {
+      "key": "ui_rules_00001",
+      "value": "規則"
+    },
+    "ui_rules_00002": {
+      "key": "ui_rules_00002",
+      "value": "*在所有玩家完成比賽后，將根據您的得分進行排名。\n\n*遊戲中的所有玩家都會給予相同的3D對象進行收集任務。\n\n*對于最終得分相同的玩家，較早完成遊戲的玩家將獲得更高的排名。"
+    },
+    "ui_tip_00001": {
+      "key": "ui_tip_00001",
+      "value": "贈送成功"
+    },
+    "ui_tip_00002": {
+      "key": "ui_tip_00002",
+      "value": "每日每位好友只能贈送1次體力"
+    },
+    "ui_tip_00003": {
+      "key": "ui_tip_00003",
+      "value": "添加成功"
+    },
+    "ui_tip_00004": {
+      "key": "ui_tip_00004",
+      "value": "邀請成功"
+    },
+    "ui_tip_00005": {
+      "key": "ui_tip_00005",
+      "value": "已拒絕好友邀請"
+    },
+    "ui_tip_00006": {
+      "key": "ui_tip_00006",
+      "value": "已收取體力"
+    },
+    "ui_tip_00007": {
+      "key": "ui_tip_00007",
+      "value": "已成功復制"
+    },
+    "ui_tip_00008": {
+      "key": "ui_tip_00008",
+      "value": "您的%s不足，可觀看廣告獲得金幣或充值購買"
+    },
+    "ui_tip_00009": {
+      "key": "ui_tip_00009",
+      "value": "簽到成功"
+    },
+    "ui_tip_00010": {
+      "key": "ui_tip_00010",
+      "value": "元素個數不足"
+    },
+    "ui_tip_00011": {
+      "key": "ui_tip_00011",
+      "value": "密碼長度必須在6-16個字符之間"
+    },
+    "ui_tip_00012": {
+      "key": "ui_tip_00012",
+      "value": "注冊成功，激活鏈接已經發送至您的郵箱"
+    },
+    "ui_tip_00013": {
+      "key": "ui_tip_00013",
+      "value": "該郵箱已注冊過了，請使用新的郵箱地址進行注冊"
+    },
+    "ui_tip_00014": {
+      "key": "ui_tip_00014",
+      "value": "用戶名不能為空"
+    },
+    "ui_tip_00015": {
+      "key": "ui_tip_00015",
+      "value": "用戶名過長，請重新輸入"
+    },
+    "ui_tip_00016": {
+      "key": "ui_tip_00016",
+      "value": "改名成功"
+    },
+    "ui_tip_00017": {
+      "key": "ui_tip_00017",
+      "value": "密碼錯誤"
+    },
+    "ui_tip_00018": {
+      "key": "ui_tip_00018",
+      "value": "郵箱未注冊"
+    },
+    "ui_tip_00019": {
+      "key": "ui_tip_00019",
+      "value": "郵箱未激活"
+    },
+    "ui_tip_00020": {
+      "key": "ui_tip_00020",
+      "value": "購買成功"
+    },
+    "ui_tip_00021": {
+      "key": "ui_tip_00021",
+      "value": "已刪除好友"
+    },
+    "ui_tip_00022": {
+      "key": "ui_tip_00022",
+      "value": "目前是無限體力無法進行體力填充"
+    },
+    "ui_tip_00023": {
+      "key": "ui_tip_00023",
+      "value": "體力最大，無法在購買"
+    },
+    "ui_tip_00024": {
+      "key": "ui_tip_00024",
+      "value": "該道具還未解鎖"
+    },
+    "ui_tip_00025": {
+      "key": "ui_tip_00025",
+      "value": "不足"
+    },
+    "ui_tip_00026": {
+      "key": "ui_tip_00026",
+      "value": "添加成功"
+    },
+    "ui_tip_00027": {
+      "key": "ui_tip_00027",
+      "value": "該玩家不存在"
+    },
+    "ui_tip_00028": {
+      "key": "ui_tip_00028",
+      "value": "不能添加自己為好友"
+    },
+    "ui_tip_00029": {
+      "key": "ui_tip_00029",
+      "value": "UID不能為空"
+    },
+    "ui_tip_00033": {
+      "key": "ui_tip_00033",
+      "value": "網絡不穩定，請查看您的問題。"
+    },
+    "item_200001": {
+      "key": "item_200001",
+      "value": "放大鏡"
+    },
+    "item_200002": {
+      "key": "item_200002",
+      "value": "磁鐵"
+    },
+    "item_200003": {
+      "key": "item_200003",
+      "value": "時鐘"
+    },
+    "item_200004": {
+      "key": "item_200004",
+      "value": "燈泡"
+    },
+    "item_200005": {
+      "key": "item_200005",
+      "value": "凍結時間"
+    },
+    "item_200006": {
+      "key": "item_200006",
+      "value": "體力"
+    },
+    "item_200007": {
+      "key": "item_200007",
+      "value": "金幣"
+    },
+    "item_200008": {
+      "key": "item_200008",
+      "value": "重置"
+    },
+    "item_200009": {
+      "key": "item_200009",
+      "value": "無限體力"
+    },
+    "item_200010": {
+      "key": "item_200010",
+      "value": "獎杯"
+    },
+    "ui_starreward_00001": {
+      "key": "ui_starreward_00001",
+      "value": "星星榜獎勵"
+    },
+    "ui_trophyreward_00001": {
+      "key": "ui_trophyreward_00001",
+      "value": "獎杯榜獎勵"
+    },
+    "ui_record_00001": {
+      "key": "ui_record_00001",
+      "value": "無比賽記錄"
+    },
+    "ui_store_00001": {
+      "key": "ui_store_00001",
+      "value": "最具性價比"
+    },
+    "ui_store_00002": {
+      "key": "ui_store_00002",
+      "value": "最受歡迎"
+    },
+    "ui_reward_00001": {
+      "key": "ui_reward_00001",
+      "value": "獲得獎勵"
+    },
+    "ui_live_00001": {
+      "key": "ui_live_00001",
+      "value": "補滿體力"
+    },
+    "ui_live_00002": {
+      "key": "ui_live_00002",
+      "value": "不用，謝謝"
+    },
+    "item_des_200001": {
+      "key": "item_des_200001",
+      "value": "顯示3個任務元素位置"
+    },
+    "item_des_200002": {
+      "key": "item_des_200002",
+      "value": "開局收集一個任務元素"
+    },
+    "item_des_200003": {
+      "key": "item_des_200003",
+      "value": "增加10秒關卡時間"
+    },
+    "item_des_200004": {
+      "key": "item_des_200004",
+      "value": "顯示一個任務元素位置"
+    },
+    "item_des_200005": {
+      "key": "item_des_200005",
+      "value": "凍結時間10秒"
+    },
+    "item_des_200006": {
+      "key": "item_des_200006",
+      "value": "補滿體力"
+    },
+    "item_des_200008": {
+      "key": "item_des_200008",
+      "value": "打亂元素位置"
+    },
+    "pvp_tips_00001": {
+      "key": "pvp_tips_00001",
+      "value": "玩家"
+    },
+    "pvp_tips_00002": {
+      "key": "pvp_tips_00002",
+      "value": "預計%s秒：%s秒"
+    },
+    "ui_tip_00030": {
+      "key": "ui_tip_00030",
+      "value": "體力不足"
+    },
+    "ui_tip_00031": {
+      "key": "ui_tip_00031",
+      "value": "領取成功"
+    },
+    "ui_tip_00032": {
+      "key": "ui_tip_00032",
+      "value": "金幣不足"
+    }
+  }
+}

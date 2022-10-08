@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1992,1250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Glow_909
+  rotate: false
+  xy: 1428, 15
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+XL_yanwu/1
+  rotate: true
+  xy: 2, 441
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/10
+  rotate: false
+  xy: 566, 404
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/11
+  rotate: false
+  xy: 997, 686
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/12
+  rotate: false
+  xy: 566, 122
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/13
+  rotate: false
+  xy: 997, 404
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/14
+  rotate: false
+  xy: 997, 122
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/15
+  rotate: true
+  xy: 1428, 145
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/16
+  rotate: true
+  xy: 1710, 388
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/2
+  rotate: false
+  xy: 394, 968
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/3
+  rotate: true
+  xy: 2, 10
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/4
+  rotate: false
+  xy: 825, 968
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/5
+  rotate: false
+  xy: 1256, 968
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/6
+  rotate: true
+  xy: 1687, 819
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/7
+  rotate: true
+  xy: 284, 441
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/8
+  rotate: true
+  xy: 284, 10
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+XL_yanwu/9
+  rotate: false
+  xy: 566, 686
+  size: 429, 280
+  orig: 429, 280
+  offset: 0, 0
+  index: -1
+ranking_box2
+  rotate: true
+  xy: 1428, 576
+  size: 390, 248
+  orig: 390, 248
+  offset: 0, 0
+  index: -1
+ranking_box3
+  rotate: true
+  xy: 1710, 2
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
+waiguang
+  rotate: false
+  xy: 2, 872
+  size: 390, 376
+  orig: 390, 376
+  offset: 0, 0
+  index: -1

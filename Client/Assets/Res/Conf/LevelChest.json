@@ -1,0 +1,1004 @@
+{
+  "LevelChest": {
+    "5": {
+      "Level": 5,
+      "LevelChestID": 1020001,
+      "DropID": 4000001
+    },
+    "10": {
+      "Level": 10,
+      "LevelChestID": 1020002,
+      "DropID": 4000001
+    },
+    "15": {
+      "Level": 15,
+      "LevelChestID": 1020003,
+      "DropID": 4000001
+    },
+    "20": {
+      "Level": 20,
+      "LevelChestID": 1020004,
+      "DropID": 4000001
+    },
+    "25": {
+      "Level": 25,
+      "LevelChestID": 1020005,
+      "DropID": 4000001
+    },
+    "30": {
+      "Level": 30,
+      "LevelChestID": 1020006,
+      "DropID": 4000001
+    },
+    "35": {
+      "Level": 35,
+      "LevelChestID": 1020007,
+      "DropID": 4000001
+    },
+    "40": {
+      "Level": 40,
+      "LevelChestID": 1020008,
+      "DropID": 4000001
+    },
+    "45": {
+      "Level": 45,
+      "LevelChestID": 1020009,
+      "DropID": 4000001
+    },
+    "50": {
+      "Level": 50,
+      "LevelChestID": 1020010,
+      "DropID": 4000001
+    },
+    "55": {
+      "Level": 55,
+      "LevelChestID": 1020011,
+      "DropID": 4000001
+    },
+    "60": {
+      "Level": 60,
+      "LevelChestID": 1020012,
+      "DropID": 4000001
+    },
+    "65": {
+      "Level": 65,
+      "LevelChestID": 1020013,
+      "DropID": 4000001
+    },
+    "70": {
+      "Level": 70,
+      "LevelChestID": 1020014,
+      "DropID": 4000001
+    },
+    "75": {
+      "Level": 75,
+      "LevelChestID": 1020015,
+      "DropID": 4000001
+    },
+    "80": {
+      "Level": 80,
+      "LevelChestID": 1020016,
+      "DropID": 4000001
+    },
+    "85": {
+      "Level": 85,
+      "LevelChestID": 1020017,
+      "DropID": 4000001
+    },
+    "90": {
+      "Level": 90,
+      "LevelChestID": 1020018,
+      "DropID": 4000001
+    },
+    "95": {
+      "Level": 95,
+      "LevelChestID": 1020019,
+      "DropID": 4000001
+    },
+    "100": {
+      "Level": 100,
+      "LevelChestID": 1020020,
+      "DropID": 4000001
+    },
+    "105": {
+      "Level": 105,
+      "LevelChestID": 1020021,
+      "DropID": 4000001
+    },
+    "110": {
+      "Level": 110,
+      "LevelChestID": 1020022,
+      "DropID": 4000001
+    },
+    "115": {
+      "Level": 115,
+      "LevelChestID": 1020023,
+      "DropID": 4000001
+    },
+    "120": {
+      "Level": 120,
+      "LevelChestID": 1020024,
+      "DropID": 4000001
+    },
+    "125": {
+      "Level": 125,
+      "LevelChestID": 1020025,
+      "DropID": 4000001
+    },
+    "130": {
+      "Level": 130,
+      "LevelChestID": 1020026,
+      "DropID": 4000001
+    },
+    "135": {
+      "Level": 135,
+      "LevelChestID": 1020027,
+      "DropID": 4000001
+    },
+    "140": {
+      "Level": 140,
+      "LevelChestID": 1020028,
+      "DropID": 4000001
+    },
+    "145": {
+      "Level": 145,
+      "LevelChestID": 1020029,
+      "DropID": 4000001
+    },
+    "150": {
+      "Level": 150,
+      "LevelChestID": 1020030,
+      "DropID": 4000001
+    },
+    "155": {
+      "Level": 155,
+      "LevelChestID": 1020031,
+      "DropID": 4000001
+    },
+    "160": {
+      "Level": 160,
+      "LevelChestID": 1020032,
+      "DropID": 4000001
+    },
+    "165": {
+      "Level": 165,
+      "LevelChestID": 1020033,
+      "DropID": 4000001
+    },
+    "170": {
+      "Level": 170,
+      "LevelChestID": 1020034,
+      "DropID": 4000001
+    },
+    "175": {
+      "Level": 175,
+      "LevelChestID": 1020035,
+      "DropID": 4000001
+    },
+    "180": {
+      "Level": 180,
+      "LevelChestID": 1020036,
+      "DropID": 4000001
+    },
+    "185": {
+      "Level": 185,
+      "LevelChestID": 1020037,
+      "DropID": 4000001
+    },
+    "190": {
+      "Level": 190,
+      "LevelChestID": 1020038,
+      "DropID": 4000001
+    },
+    "195": {
+      "Level": 195,
+      "LevelChestID": 1020039,
+      "DropID": 4000001
+    },
+    "200": {
+      "Level": 200,
+      "LevelChestID": 1020040,
+      "DropID": 4000001
+    },
+    "205": {
+      "Level": 205,
+      "LevelChestID": 1020041,
+      "DropID": 4000001
+    },
+    "210": {
+      "Level": 210,
+      "LevelChestID": 1020042,
+      "DropID": 4000001
+    },
+    "215": {
+      "Level": 215,
+      "LevelChestID": 1020043,
+      "DropID": 4000001
+    },
+    "220": {
+      "Level": 220,
+      "LevelChestID": 1020044,
+      "DropID": 4000001
+    },
+    "225": {
+      "Level": 225,
+      "LevelChestID": 1020045,
+      "DropID": 4000001
+    },
+    "230": {
+      "Level": 230,
+      "LevelChestID": 1020046,
+      "DropID": 4000001
+    },
+    "235": {
+      "Level": 235,
+      "LevelChestID": 1020047,
+      "DropID": 4000001
+    },
+    "240": {
+      "Level": 240,
+      "LevelChestID": 1020048,
+      "DropID": 4000001
+    },
+    "245": {
+      "Level": 245,
+      "LevelChestID": 1020049,
+      "DropID": 4000001
+    },
+    "250": {
+      "Level": 250,
+      "LevelChestID": 1020050,
+      "DropID": 4000001
+    },
+    "255": {
+      "Level": 255,
+      "LevelChestID": 1020051,
+      "DropID": 4000001
+    },
+    "260": {
+      "Level": 260,
+      "LevelChestID": 1020052,
+      "DropID": 4000001
+    },
+    "265": {
+      "Level": 265,
+      "LevelChestID": 1020053,
+      "DropID": 4000001
+    },
+    "270": {
+      "Level": 270,
+      "LevelChestID": 1020054,
+      "DropID": 4000001
+    },
+    "275": {
+      "Level": 275,
+      "LevelChestID": 1020055,
+      "DropID": 4000001
+    },
+    "280": {
+      "Level": 280,
+      "LevelChestID": 1020056,
+      "DropID": 4000001
+    },
+    "285": {
+      "Level": 285,
+      "LevelChestID": 1020057,
+      "DropID": 4000001
+    },
+    "290": {
+      "Level": 290,
+      "LevelChestID": 1020058,
+      "DropID": 4000001
+    },
+    "295": {
+      "Level": 295,
+      "LevelChestID": 1020059,
+      "DropID": 4000001
+    },
+    "300": {
+      "Level": 300,
+      "LevelChestID": 1020060,
+      "DropID": 4000001
+    },
+    "305": {
+      "Level": 305,
+      "LevelChestID": 1020061,
+      "DropID": 4000001
+    },
+    "310": {
+      "Level": 310,
+      "LevelChestID": 1020062,
+      "DropID": 4000001
+    },
+    "315": {
+      "Level": 315,
+      "LevelChestID": 1020063,
+      "DropID": 4000001
+    },
+    "320": {
+      "Level": 320,
+      "LevelChestID": 1020064,
+      "DropID": 4000001
+    },
+    "325": {
+      "Level": 325,
+      "LevelChestID": 1020065,
+      "DropID": 4000001
+    },
+    "330": {
+      "Level": 330,
+      "LevelChestID": 1020066,
+      "DropID": 4000001
+    },
+    "335": {
+      "Level": 335,
+      "LevelChestID": 1020067,
+      "DropID": 4000001
+    },
+    "340": {
+      "Level": 340,
+      "LevelChestID": 1020068,
+      "DropID": 4000001
+    },
+    "345": {
+      "Level": 345,
+      "LevelChestID": 1020069,
+      "DropID": 4000001
+    },
+    "350": {
+      "Level": 350,
+      "LevelChestID": 1020070,
+      "DropID": 4000001
+    },
+    "355": {
+      "Level": 355,
+      "LevelChestID": 1020071,
+      "DropID": 4000001
+    },
+    "360": {
+      "Level": 360,
+      "LevelChestID": 1020072,
+      "DropID": 4000001
+    },
+    "365": {
+      "Level": 365,
+      "LevelChestID": 1020073,
+      "DropID": 4000001
+    },
+    "370": {
+      "Level": 370,
+      "LevelChestID": 1020074,
+      "DropID": 4000001
+    },
+    "375": {
+      "Level": 375,
+      "LevelChestID": 1020075,
+      "DropID": 4000001
+    },
+    "380": {
+      "Level": 380,
+      "LevelChestID": 1020076,
+      "DropID": 4000001
+    },
+    "385": {
+      "Level": 385,
+      "LevelChestID": 1020077,
+      "DropID": 4000001
+    },
+    "390": {
+      "Level": 390,
+      "LevelChestID": 1020078,
+      "DropID": 4000001
+    },
+    "395": {
+      "Level": 395,
+      "LevelChestID": 1020079,
+      "DropID": 4000001
+    },
+    "400": {
+      "Level": 400,
+      "LevelChestID": 1020080,
+      "DropID": 4000001
+    },
+    "405": {
+      "Level": 405,
+      "LevelChestID": 1020081,
+      "DropID": 4000001
+    },
+    "410": {
+      "Level": 410,
+      "LevelChestID": 1020082,
+      "DropID": 4000001
+    },
+    "415": {
+      "Level": 415,
+      "LevelChestID": 1020083,
+      "DropID": 4000001
+    },
+    "420": {
+      "Level": 420,
+      "LevelChestID": 1020084,
+      "DropID": 4000001
+    },
+    "425": {
+      "Level": 425,
+      "LevelChestID": 1020085,
+      "DropID": 4000001
+    },
+    "430": {
+      "Level": 430,
+      "LevelChestID": 1020086,
+      "DropID": 4000001
+    },
+    "435": {
+      "Level": 435,
+      "LevelChestID": 1020087,
+      "DropID": 4000001
+    },
+    "440": {
+      "Level": 440,
+      "LevelChestID": 1020088,
+      "DropID": 4000001
+    },
+    "445": {
+      "Level": 445,
+      "LevelChestID": 1020089,
+      "DropID": 4000001
+    },
+    "450": {
+      "Level": 450,
+      "LevelChestID": 1020090,
+      "DropID": 4000001
+    },
+    "455": {
+      "Level": 455,
+      "LevelChestID": 1020091,
+      "DropID": 4000001
+    },
+    "460": {
+      "Level": 460,
+      "LevelChestID": 1020092,
+      "DropID": 4000001
+    },
+    "465": {
+      "Level": 465,
+      "LevelChestID": 1020093,
+      "DropID": 4000001
+    },
+    "470": {
+      "Level": 470,
+      "LevelChestID": 1020094,
+      "DropID": 4000001
+    },
+    "475": {
+      "Level": 475,
+      "LevelChestID": 1020095,
+      "DropID": 4000001
+    },
+    "480": {
+      "Level": 480,
+      "LevelChestID": 1020096,
+      "DropID": 4000001
+    },
+    "485": {
+      "Level": 485,
+      "LevelChestID": 1020097,
+      "DropID": 4000001
+    },
+    "490": {
+      "Level": 490,
+      "LevelChestID": 1020098,
+      "DropID": 4000001
+    },
+    "495": {
+      "Level": 495,
+      "LevelChestID": 1020099,
+      "DropID": 4000001
+    },
+    "500": {
+      "Level": 500,
+      "LevelChestID": 1020100,
+      "DropID": 4000001
+    },
+    "505": {
+      "Level": 505,
+      "LevelChestID": 1020101,
+      "DropID": 4000001
+    },
+    "510": {
+      "Level": 510,
+      "LevelChestID": 1020102,
+      "DropID": 4000001
+    },
+    "515": {
+      "Level": 515,
+      "LevelChestID": 1020103,
+      "DropID": 4000001
+    },
+    "520": {
+      "Level": 520,
+      "LevelChestID": 1020104,
+      "DropID": 4000001
+    },
+    "525": {
+      "Level": 525,
+      "LevelChestID": 1020105,
+      "DropID": 4000001
+    },
+    "530": {
+      "Level": 530,
+      "LevelChestID": 1020106,
+      "DropID": 4000001
+    },
+    "535": {
+      "Level": 535,
+      "LevelChestID": 1020107,
+      "DropID": 4000001
+    },
+    "540": {
+      "Level": 540,
+      "LevelChestID": 1020108,
+      "DropID": 4000001
+    },
+    "545": {
+      "Level": 545,
+      "LevelChestID": 1020109,
+      "DropID": 4000001
+    },
+    "550": {
+      "Level": 550,
+      "LevelChestID": 1020110,
+      "DropID": 4000001
+    },
+    "555": {
+      "Level": 555,
+      "LevelChestID": 1020111,
+      "DropID": 4000001
+    },
+    "560": {
+      "Level": 560,
+      "LevelChestID": 1020112,
+      "DropID": 4000001
+    },
+    "565": {
+      "Level": 565,
+      "LevelChestID": 1020113,
+      "DropID": 4000001
+    },
+    "570": {
+      "Level": 570,
+      "LevelChestID": 1020114,
+      "DropID": 4000001
+    },
+    "575": {
+      "Level": 575,
+      "LevelChestID": 1020115,
+      "DropID": 4000001
+    },
+    "580": {
+      "Level": 580,
+      "LevelChestID": 1020116,
+      "DropID": 4000001
+    },
+    "585": {
+      "Level": 585,
+      "LevelChestID": 1020117,
+      "DropID": 4000001
+    },
+    "590": {
+      "Level": 590,
+      "LevelChestID": 1020118,
+      "DropID": 4000001
+    },
+    "595": {
+      "Level": 595,
+      "LevelChestID": 1020119,
+      "DropID": 4000001
+    },
+    "600": {
+      "Level": 600,
+      "LevelChestID": 1020120,
+      "DropID": 4000001
+    },
+    "605": {
+      "Level": 605,
+      "LevelChestID": 1020121,
+      "DropID": 4000001
+    },
+    "610": {
+      "Level": 610,
+      "LevelChestID": 1020122,
+      "DropID": 4000001
+    },
+    "615": {
+      "Level": 615,
+      "LevelChestID": 1020123,
+      "DropID": 4000001
+    },
+    "620": {
+      "Level": 620,
+      "LevelChestID": 1020124,
+      "DropID": 4000001
+    },
+    "625": {
+      "Level": 625,
+      "LevelChestID": 1020125,
+      "DropID": 4000001
+    },
+    "630": {
+      "Level": 630,
+      "LevelChestID": 1020126,
+      "DropID": 4000001
+    },
+    "635": {
+      "Level": 635,
+      "LevelChestID": 1020127,
+      "DropID": 4000001
+    },
+    "640": {
+      "Level": 640,
+      "LevelChestID": 1020128,
+      "DropID": 4000001
+    },
+    "645": {
+      "Level": 645,
+      "LevelChestID": 1020129,
+      "DropID": 4000001
+    },
+    "650": {
+      "Level": 650,
+      "LevelChestID": 1020130,
+      "DropID": 4000001
+    },
+    "655": {
+      "Level": 655,
+      "LevelChestID": 1020131,
+      "DropID": 4000001
+    },
+    "660": {
+      "Level": 660,
+      "LevelChestID": 1020132,
+      "DropID": 4000001
+    },
+    "665": {
+      "Level": 665,
+      "LevelChestID": 1020133,
+      "DropID": 4000001
+    },
+    "670": {
+      "Level": 670,
+      "LevelChestID": 1020134,
+      "DropID": 4000001
+    },
+    "675": {
+      "Level": 675,
+      "LevelChestID": 1020135,
+      "DropID": 4000001
+    },
+    "680": {
+      "Level": 680,
+      "LevelChestID": 1020136,
+      "DropID": 4000001
+    },
+    "685": {
+      "Level": 685,
+      "LevelChestID": 1020137,
+      "DropID": 4000001
+    },
+    "690": {
+      "Level": 690,
+      "LevelChestID": 1020138,
+      "DropID": 4000001
+    },
+    "695": {
+      "Level": 695,
+      "LevelChestID": 1020139,
+      "DropID": 4000001
+    },
+    "700": {
+      "Level": 700,
+      "LevelChestID": 1020140,
+      "DropID": 4000001
+    },
+    "705": {
+      "Level": 705,
+      "LevelChestID": 1020141,
+      "DropID": 4000001
+    },
+    "710": {
+      "Level": 710,
+      "LevelChestID": 1020142,
+      "DropID": 4000001
+    },
+    "715": {
+      "Level": 715,
+      "LevelChestID": 1020143,
+      "DropID": 4000001
+    },
+    "720": {
+      "Level": 720,
+      "LevelChestID": 1020144,
+      "DropID": 4000001
+    },
+    "725": {
+      "Level": 725,
+      "LevelChestID": 1020145,
+      "DropID": 4000001
+    },
+    "730": {
+      "Level": 730,
+      "LevelChestID": 1020146,
+      "DropID": 4000001
+    },
+    "735": {
+      "Level": 735,
+      "LevelChestID": 1020147,
+      "DropID": 4000001
+    },
+    "740": {
+      "Level": 740,
+      "LevelChestID": 1020148,
+      "DropID": 4000001
+    },
+    "745": {
+      "Level": 745,
+      "LevelChestID": 1020149,
+      "DropID": 4000001
+    },
+    "750": {
+      "Level": 750,
+      "LevelChestID": 1020150,
+      "DropID": 4000001
+    },
+    "755": {
+      "Level": 755,
+      "LevelChestID": 1020151,
+      "DropID": 4000001
+    },
+    "760": {
+      "Level": 760,
+      "LevelChestID": 1020152,
+      "DropID": 4000001
+    },
+    "765": {
+      "Level": 765,
+      "LevelChestID": 1020153,
+      "DropID": 4000001
+    },
+    "770": {
+      "Level": 770,
+      "LevelChestID": 1020154,
+      "DropID": 4000001
+    },
+    "775": {
+      "Level": 775,
+      "LevelChestID": 1020155,
+      "DropID": 4000001
+    },
+    "780": {
+      "Level": 780,
+      "LevelChestID": 1020156,
+      "DropID": 4000001
+    },
+    "785": {
+      "Level": 785,
+      "LevelChestID": 1020157,
+      "DropID": 4000001
+    },
+    "790": {
+      "Level": 790,
+      "LevelChestID": 1020158,
+      "DropID": 4000001
+    },
+    "795": {
+      "Level": 795,
+      "LevelChestID": 1020159,
+      "DropID": 4000001
+    },
+    "800": {
+      "Level": 800,
+      "LevelChestID": 1020160,
+      "DropID": 4000001
+    },
+    "805": {
+      "Level": 805,
+      "LevelChestID": 1020161,
+      "DropID": 4000001
+    },
+    "810": {
+      "Level": 810,
+      "LevelChestID": 1020162,
+      "DropID": 4000001
+    },
+    "815": {
+      "Level": 815,
+      "LevelChestID": 1020163,
+      "DropID": 4000001
+    },
+    "820": {
+      "Level": 820,
+      "LevelChestID": 1020164,
+      "DropID": 4000001
+    },
+    "825": {
+      "Level": 825,
+      "LevelChestID": 1020165,
+      "DropID": 4000001
+    },
+    "830": {
+      "Level": 830,
+      "LevelChestID": 1020166,
+      "DropID": 4000001
+    },
+    "835": {
+      "Level": 835,
+      "LevelChestID": 1020167,
+      "DropID": 4000001
+    },
+    "840": {
+      "Level": 840,
+      "LevelChestID": 1020168,
+      "DropID": 4000001
+    },
+    "845": {
+      "Level": 845,
+      "LevelChestID": 1020169,
+      "DropID": 4000001
+    },
+    "850": {
+      "Level": 850,
+      "LevelChestID": 1020170,
+      "DropID": 4000001
+    },
+    "855": {
+      "Level": 855,
+      "LevelChestID": 1020171,
+      "DropID": 4000001
+    },
+    "860": {
+      "Level": 860,
+      "LevelChestID": 1020172,
+      "DropID": 4000001
+    },
+    "865": {
+      "Level": 865,
+      "LevelChestID": 1020173,
+      "DropID": 4000001
+    },
+    "870": {
+      "Level": 870,
+      "LevelChestID": 1020174,
+      "DropID": 4000001
+    },
+    "875": {
+      "Level": 875,
+      "LevelChestID": 1020175,
+      "DropID": 4000001
+    },
+    "880": {
+      "Level": 880,
+      "LevelChestID": 1020176,
+      "DropID": 4000001
+    },
+    "885": {
+      "Level": 885,
+      "LevelChestID": 1020177,
+      "DropID": 4000001
+    },
+    "890": {
+      "Level": 890,
+      "LevelChestID": 1020178,
+      "DropID": 4000001
+    },
+    "895": {
+      "Level": 895,
+      "LevelChestID": 1020179,
+      "DropID": 4000001
+    },
+    "900": {
+      "Level": 900,
+      "LevelChestID": 1020180,
+      "DropID": 4000001
+    },
+    "905": {
+      "Level": 905,
+      "LevelChestID": 1020181,
+      "DropID": 4000001
+    },
+    "910": {
+      "Level": 910,
+      "LevelChestID": 1020182,
+      "DropID": 4000001
+    },
+    "915": {
+      "Level": 915,
+      "LevelChestID": 1020183,
+      "DropID": 4000001
+    },
+    "920": {
+      "Level": 920,
+      "LevelChestID": 1020184,
+      "DropID": 4000001
+    },
+    "925": {
+      "Level": 925,
+      "LevelChestID": 1020185,
+      "DropID": 4000001
+    },
+    "930": {
+      "Level": 930,
+      "LevelChestID": 1020186,
+      "DropID": 4000001
+    },
+    "935": {
+      "Level": 935,
+      "LevelChestID": 1020187,
+      "DropID": 4000001
+    },
+    "940": {
+      "Level": 940,
+      "LevelChestID": 1020188,
+      "DropID": 4000001
+    },
+    "945": {
+      "Level": 945,
+      "LevelChestID": 1020189,
+      "DropID": 4000001
+    },
+    "950": {
+      "Level": 950,
+      "LevelChestID": 1020190,
+      "DropID": 4000001
+    },
+    "955": {
+      "Level": 955,
+      "LevelChestID": 1020191,
+      "DropID": 4000001
+    },
+    "960": {
+      "Level": 960,
+      "LevelChestID": 1020192,
+      "DropID": 4000001
+    },
+    "965": {
+      "Level": 965,
+      "LevelChestID": 1020193,
+      "DropID": 4000001
+    },
+    "970": {
+      "Level": 970,
+      "LevelChestID": 1020194,
+      "DropID": 4000001
+    },
+    "975": {
+      "Level": 975,
+      "LevelChestID": 1020195,
+      "DropID": 4000001
+    },
+    "980": {
+      "Level": 980,
+      "LevelChestID": 1020196,
+      "DropID": 4000001
+    },
+    "985": {
+      "Level": 985,
+      "LevelChestID": 1020197,
+      "DropID": 4000001
+    },
+    "990": {
+      "Level": 990,
+      "LevelChestID": 1020198,
+      "DropID": 4000001
+    },
+    "995": {
+      "Level": 995,
+      "LevelChestID": 1020199,
+      "DropID": 4000001
+    },
+    "1000": {
+      "Level": 1000,
+      "LevelChestID": 1020200,
+      "DropID": 4000001
+    }
+  }
+}

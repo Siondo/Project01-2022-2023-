@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 378,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx_Glow_909
+  rotate: false
+  xy: 142, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+common_icon_coin
+  rotate: true
+  xy: 2, 2
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+common_icon_slife
+  rotate: true
+  xy: 272, 22
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1

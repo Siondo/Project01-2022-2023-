@@ -1,0 +1,124 @@
+{
+  "Items": {
+    "200001": {
+      "ItemID": 200001,
+      "Name": "item_200001",
+      "IconFile": "icon_fangdajing",
+      "ItemType": "2",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 3,
+      "ItemPrice": 210,
+      "ItemDescription": "item_des_200001",
+      "Tips": "放大镜：显示3个任务元素位置；【游戏中使用】"
+    },
+    "200002": {
+      "ItemID": 200002,
+      "Name": "item_200002",
+      "IconFile": "icon_dj_ct",
+      "ItemType": "2",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 3,
+      "ItemPrice": 190,
+      "ItemDescription": "item_des_200002",
+      "Tips": "磁铁：直接收集完成1个收集任务；【游戏前使用】"
+    },
+    "200003": {
+      "ItemID": 200003,
+      "Name": "item_200003",
+      "IconFile": "icon_dj_sz",
+      "ItemType": "2",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 3,
+      "ItemPrice": 290,
+      "ItemDescription": "item_des_200003",
+      "Tips": "时钟：增加10秒钟关卡时间；【游戏前使用】"
+    },
+    "200004": {
+      "ItemID": 200004,
+      "Name": "item_200004",
+      "IconFile": "icon_deng",
+      "ItemType": "2",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 3,
+      "ItemPrice": 120,
+      "ItemDescription": "item_des_200004",
+      "Tips": "灯泡：显示1个任务元素位置；【游戏中使用】"
+    },
+    "200005": {
+      "ItemID": 200005,
+      "Name": "item_200005",
+      "IconFile": "icon_xuehua",
+      "ItemType": "2",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 3,
+      "ItemPrice": 300,
+      "ItemDescription": "item_des_200005",
+      "Tips": "雪花：关卡内倒计时停止计时10秒；【游戏中使用】"
+    },
+    "200006": {
+      "ItemID": 200006,
+      "Name": "item_200006",
+      "IconFile": "common_icon_life",
+      "ItemType": "1",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 9999,
+      "ItemPrice": 100,
+      "ItemDescription": "item_des_200006",
+      "Tips": "体力：PVE以及PVP每次消耗1体力；PVE通过一关后返还1体力"
+    },
+    "200007": {
+      "ItemID": 200007,
+      "Name": "item_200007",
+      "IconFile": "common_icon_coin",
+      "ItemType": "1",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 0,
+      "ItemPrice": 0,
+      "ItemDescription": "0",
+      "Tips": "金币：基础货币可以用来购买道具"
+    },
+    "200008": {
+      "ItemID": 200008,
+      "Name": "item_200008",
+      "IconFile": "icon_shuaxin",
+      "ItemType": "2",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 3,
+      "ItemPrice": 150,
+      "ItemDescription": "item_des_200008",
+      "Tips": "重置：重置打乱所有元素位置；【游戏中使用】"
+    },
+    "200009": {
+      "ItemID": 200009,
+      "Name": "item_200009",
+      "IconFile": "common_icon_slife",
+      "ItemType": "3",
+      "useType": 1,
+      "useValue": 15,
+      "ItemNumber": 0,
+      "ItemPrice": 0,
+      "ItemDescription": "0",
+      "Tips": "无限体力：获得自动使用在15分钟内无限体力"
+    },
+    "200010": {
+      "ItemID": 200010,
+      "Name": "item_200010",
+      "IconFile": "common_icon_Rank1",
+      "ItemType": "1",
+      "useType": 0,
+      "useValue": 0,
+      "ItemNumber": 0,
+      "ItemPrice": 0,
+      "ItemDescription": "0",
+      "Tips": "奖杯"
+    }
+  }
+}

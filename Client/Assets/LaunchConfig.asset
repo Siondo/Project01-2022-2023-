@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 11500000, guid: 65cca4bf2aac11d4ca3f82ea9d35637f, type: 3}
+  m_Name: LaunchConfig
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_productName: CrushTask3D
+    m_assetVersion: 1.0.0
+    m_scriptingDefineSymbols: HOTFIX_ENABLE;AB_MODE
+    m_url: http://47.108.94.131:49005
+    m_openGuide: 1
+    m_openUpdate: 0
+    m_logLevel: 0
+    m_abMode: 0
+    m_abLua: 0
+    m_debugMode: 0
+    m_checkMode: 0
+    m_name: "\u81EA\u5B9A\u4E49"
+    m_bundleIdentifier: com.jiujiuji.CrushTask
+    m_version: 1.0.0
+    m_bundleVersionCode: 1
+  - m_productName: CrushTask3D
+    m_assetVersion: 1.0.0
+    m_scriptingDefineSymbols: HOTFIX_ENABLE;AB_MODE
+    m_url: http://47.108.94.131:49005
+    m_openGuide: 1
+    m_openUpdate: 0
+    m_logLevel: 0
+    m_abMode: 1
+    m_abLua: 1
+    m_debugMode: 1
+    m_checkMode: 1
+    m_name: "\u5916\u7F51\u73AF\u5883"
+    m_bundleIdentifier: com.jiujiuji.CrushTask
+    m_version: 1.0.0
+    m_bundleVersionCode: 1
+  - m_productName: CrushTask3D
+    m_assetVersion: 1.0.0
+    m_scriptingDefineSymbols: HOTFIX_ENABLE;AB_MODE
+    m_url: http://192.168.2.234:29005
+    m_openGuide: 1
+    m_openUpdate: 0
+    m_logLevel: 0
+    m_abMode: 0
+    m_abLua: 0
+    m_debugMode: 1
+    m_checkMode: 0
+    m_name: "\u53F6\u5FD7-\u670D\u52A1\u5668"
+    m_bundleIdentifier: com.jiujiuji.CrushTask
+    m_version: 1.0.0
+    m_bundleVersionCode: 1
+  - m_productName: CrushTask3D
+    m_assetVersion: 1.0.0
+    m_scriptingDefineSymbols: HOTFIX_ENABLE;AB_MODE
+    m_url: http://192.168.2.86:29005
+    m_openGuide: 1
+    m_openUpdate: 0
+    m_logLevel: 0
+    m_abMode: 0
+    m_abLua: 0
+    m_debugMode: 1
+    m_checkMode: 0
+    m_name: "\u6E29\u6D9B-\u670D\u52A1\u5668"
+    m_bundleIdentifier: com.jiujiuji.CrushTask
+    m_version: 1.0.0
+    m_bundleVersionCode: 1
+  m_selectIndex: 2
+  m_advancedMode: 1

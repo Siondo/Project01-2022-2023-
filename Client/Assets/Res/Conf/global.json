@@ -1,0 +1,16 @@
+{
+  "global": {
+    "Privacy": {
+      "key": "Privacy",
+      "value": "http://www.guoldan.com/news/asdzxc"
+    },
+    "Service": {
+      "key": "Service",
+      "value": "http://www.guoldan.com/news/aszcvas"
+    },
+    "strength_cfg": {
+      "key": "strength_cfg",
+      "value": "5_1800_1"
+    }
+  }
+}
