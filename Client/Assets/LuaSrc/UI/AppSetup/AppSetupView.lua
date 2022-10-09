@@ -42,14 +42,16 @@ end
 
 
 function AppSetupView:OnShow(callBack)
-    self.ui.AccountGo:SetActive(false)
-    self.ui.LoadingGo:SetActive(true)
+    self.ui.AccountGo:SetActive(true)
+    self.ui.LoadingGo:SetActive(false)
 end
- 
 
-function AppSetupView:onSync(email, password)
+
+function AppSetupView:onClick_BtnStart()
     LuaHelper.ClearUI(false)
+    LuaHelper.ShowUI(UI.MainView)
 end
+
 
 
 return AppSetupView

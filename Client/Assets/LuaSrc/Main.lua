@@ -15,12 +15,12 @@ local breakSocketHandle, debugXpCall
 -- 开始
 function Start()
 	--编辑器模式下开启LuaDebug调试
-    if LuaHelper.GetDebugModeStatus() then
+    --if LuaHelper.GetDebugModeStatus() then
 		if UnityEngine.Application.platform == UnityEngine.RuntimePlatform.WindowsEditor then
 			log('<<<<<<* 开启断点模式 *>>>>>>>')
 			breakSocketHandle, debugXpCall = require("LuaDebug")("localhost", 7003)
 		end
-	end
+	--end
 
 	APP.manifestMapping:TryAdd("manifest.json", "manifest")
 	APP.manifestMapping:TryAdd("manifestmapping.json", "manifestmapping")

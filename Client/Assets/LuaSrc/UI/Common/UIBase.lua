@@ -55,7 +55,7 @@ end
 
 
 --[[
-    @desc: 自动绑定点击事件
+    @desc: 自动绑定事件
     time:2022-04-02 17:35:51
 ]]
 function UIBase:onAutoBindEventHandler()
